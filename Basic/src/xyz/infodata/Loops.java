@@ -53,7 +53,7 @@ public class Loops {
 
         System.out.println("int x;");
         System.out.println("int y;");
-        System.out.println("for(i=0, j=10; i<10; i++, j--)");
+        System.out.println("for(x=0, y=9; x<10; x++, y--)");
 
         int x;
         int y;
