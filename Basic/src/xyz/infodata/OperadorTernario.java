@@ -1,7 +1,8 @@
 package xyz.infodata;
 /*
  * Autor: Nicolas Ramos
- * Nota : Apenas para lembrar o uso do operador ternario;
+ * Nota : Apenas para lembrar o uso do operador ternario; o resultado foi colocado em uma String str,
+ *        para isolar tanto o 'if' como o 'Operador Ternário' e fique um exemplo mais claro.
  */
 public class OperadorTernario {
 
