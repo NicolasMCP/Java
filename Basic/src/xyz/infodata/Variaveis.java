@@ -72,6 +72,7 @@ public class Variaveis {
         System.out.println(System.lineSeparator());
         System.out.println("(No 'double' NaN é o ERRO, mostrando que o resultado NÃO é um NÚMERO" +
                 " REAL)");
+        System.out.println("[NaN = Not a Number (ou Não é um Número)]");
         System.out.print(d);
 
         System.out.println(System.lineSeparator());
