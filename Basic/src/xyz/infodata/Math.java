@@ -51,7 +51,7 @@ public class Math {
         return a3;
     }
 
-    // interativo, devolve a sequencia de fibonacci até o elemento solicitado
+    // interativo, devolve um ArrayList com a sequencia de fibonacci até o elemento solicitado
     public ArrayList seqFibonacci(long elemento) {
         long a1 = 0L;
         long a2 = 1L;
