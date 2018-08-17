@@ -52,6 +52,8 @@ class MathTest {
         Math math = new Math();
         // elemFibonacci(-10)
         assertEquals(-1L, math.elemFibonacci(-10L));
+        // elemFibonacci(0)
+        assertEquals(-1L, math.elemFibonacci(0L));
         // elemFibonacci(15)
         assertEquals(377L, math.elemFibonacci(15L));
         // elemFibonacci(3)
@@ -60,8 +62,6 @@ class MathTest {
         assertEquals(1L, math.elemFibonacci(2L));
         // elemFibonacci(1)
         assertEquals(0L, math.elemFibonacci(1L));
-        // elemFibonacci(0)
-        assertEquals(-1L, math.elemFibonacci(0L));
     }
 
     @Test

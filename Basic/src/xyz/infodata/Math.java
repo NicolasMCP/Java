@@ -1,10 +1,10 @@
 package xyz.infodata;
 
 import java.util.ArrayList;
-
 /*
  * Autor: Nicolas Ramos
  * Nota : Iniciando uma classe para incluir itens matematicos.
+ *
  */
 public class Math {
 
@@ -20,7 +20,7 @@ public class Math {
         if(n < 0L) { return -1L;}
         if(n == 0L || n == 1L) { return 1L;}
         long factorial = 1;
-        for(long i=2; i<=n; i++) {
+        for(long i=2L; i<=n; i++) {
             factorial *= i;
         }
         return factorial;
