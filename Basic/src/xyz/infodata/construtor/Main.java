@@ -8,5 +8,10 @@ public class Main {
         long toPrint = ap.Calcula();
 
         System.out.println("O resultado é: "+toPrint);
+
+        Aplicacao ap2 = new Aplicacao(3, 4);
+        toPrint = ap2.Calcula();
+
+        System.out.println("O resultado é: "+toPrint);
     }
 }
