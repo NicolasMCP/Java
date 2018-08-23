@@ -6,9 +6,8 @@ public class Aplicacao {
     private int parametroB;
 
     public Aplicacao() {
-        // Parametros padrão (caso não sejam fornecidos)
-        this.parametroA = 12;
-        this.parametroB = 16;
+        // chamamos diretamente o outro construtor
+        this(12, 16);
     }
 
     public Aplicacao(int parametroA, int parametroB) {
