@@ -1,12 +1,13 @@
 package xyz.infodata.testes;
 
 import org.junit.jupiter.api.Test;
-
 import xyz.infodata.Math;
-
 import java.util.Arrays;
-
 import static org.junit.jupiter.api.Assertions.assertEquals;
+/*
+ * Autor: Nicolas Ramos
+ * Nota : Implementação de testes em Math...
+ */
 
 class MathTest {
 

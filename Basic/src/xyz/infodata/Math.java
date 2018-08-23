@@ -1,5 +1,6 @@
 package xyz.infodata;
 
+import java.math.BigDecimal;
 import java.util.ArrayList;
 /*
  * Autor: Nicolas Ramos
@@ -7,6 +8,19 @@ import java.util.ArrayList;
  *
  */
 public class Math {
+
+    // usando BigDecimal
+    public BigDecimal somaBig(BigDecimal a, BigDecimal b) {
+        return a.add(b);
+    }
+    public BigDecimal somaBig(String a, String b) {
+        BigDecimal num_a = new BigDecimal(a);
+        BigDecimal num_b = new BigDecimal(b);
+        return num_a.add(num_b);
+    }
+    public double somaDouble(double a, double b) {
+        return a+b;
+    }
 
     // recursivo
     public long fatorial(long n){
