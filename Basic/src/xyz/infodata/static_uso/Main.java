@@ -32,7 +32,7 @@ public class Main {
         System.out.println(System.lineSeparator()+"O pacote 'java.lang.Math.PI' usa um 'double', eu tive que usar um 'BigDecimal'...");
 
         System.out.println(System.lineSeparator()+"Como String podemos representar PI como: "+Constantes.STR_PI);
-
         System.out.println("Mas... para que exagerar :)");
+        System.out.println(System.lineSeparator()+"VALOR = "+Constantes.VALOR);
     }
 }
