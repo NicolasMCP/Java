@@ -4,6 +4,7 @@ import xyz.infodata.Math;
 import java.math.BigDecimal;
 /*
  * Autor: Nicolas Ramos
+ * Data : 20/05/2018
  * Nota : 'main' de alguns exemplos de comparação do uso de
  *        BigDecimal e double assim como os perturbadores
  *        resultados.
