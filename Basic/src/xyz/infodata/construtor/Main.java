@@ -1,4 +1,10 @@
 package xyz.infodata.construtor;
+/*
+ * Autor: Nicolas Ramos
+ * Data : 23/05/2018
+ * Nota : Exemplos de alguns usos do 'Construtor'.
+ *
+ */
 
 public class Main {
 
