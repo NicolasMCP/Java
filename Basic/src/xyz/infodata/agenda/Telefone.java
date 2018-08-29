@@ -5,19 +5,35 @@ public class Telefone {
     private TipoTelefone tipo;
     private String telefone;
 
+    public Telefone(TipoTelefone tipo, String telefone) {
+        setTipo(tipo);
+        setTelefone(telefone);
+    }
+
     public TipoTelefone getTipo() {
         return tipo;
     }
+    public String getTelefone() { return telefone; }
 
     public void setTipo(TipoTelefone tipo) {
+        if(tipo == null || (tipo != TipoTelefone.PARTICULAR && tipo != TipoTelefone.TRABALHO)) {
+            throw new IllegalArgumentException("Erro. 'Tipo de Telefone' obrigatório, pode ser TRABALHO ou PARTICULAR!");
+        }
         this.tipo = tipo;
     }
 
-    public String getTelefone() {
-        return telefone;
-    }
-
     public void setTelefone(String telefone) {
+        if(telefone == null || telefone.trim().isEmpty()) {
+            throw new IllegalArgumentException("Erro. Telefone de deve ser informado!");
+        }
         this.telefone = telefone;
     }
+
+    @Override
+    public String toString() {
+        String s;
+        s = getTipo() == null || getTelefone() == null || getTelefone().trim().isEmpty()? "" : "[" +  getTipo() + ", " + getTelefone() + "]";
+        return s;
+    }
+
 }

@@ -44,14 +44,14 @@ public class Pessoa {
     }
 
     public void setEndereco(String endereco) {
-        if(endereco==null || endereco.trim().isEmpty()) {
+        if(endereco == null || endereco.trim().isEmpty()) {
             throw new IllegalArgumentException("Erro. Endereço deve ser informado!");
         }
         this.endereco = endereco;
     }
 
     public void setCidade(String cidade) {
-        if(cidade==null || cidade.trim().isEmpty()) {
+        if(cidade == null || cidade.trim().isEmpty()) {
             throw new IllegalArgumentException("Erro. Cidade deve ser informada!");
         }
         this.cidade = cidade;
@@ -85,6 +85,11 @@ public class Pessoa {
         s = getCidade() == null ? s : getCidade().trim().isEmpty() ? s : s + ", " + getCidade();
         s = getUf() == null ? s : getUf().trim().isEmpty() ? s : s + ", " + getUf();
         s = getCep() == null ? s : getCep().trim().isEmpty() ? s : s + ", " + getCep();
+
+        s = getFone1() == null ? s : s + " " + getFone1().toString();
+        s = getFone2() == null ? s : s + " " + getFone2().toString();
+        s = getFone3() == null ? s : s + " " + getFone3().toString();
+        s = getFone4() == null ? s : s + " " + getFone4().toString();
 
         s += "]";
         return s;
