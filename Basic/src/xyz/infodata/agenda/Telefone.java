@@ -1,7 +1,7 @@
 package xyz.infodata.agenda;
 
 public class Telefone {
-    public enum TipoTelefone{ CELULAR, FIXO }
+    public enum TipoTelefone{ TRABALHO, PARTICULAR }
     private TipoTelefone tipo;
     private String telefone;
 
