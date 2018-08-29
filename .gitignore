@@ -1,1 +1,12 @@
 /.metadata/
+
+# arquivos antigos
+old/
+
+# arquivos do idea
+.idea/
+Basic/.idea/
+
+# arquivos de saida
+out/
+Basic/out/
