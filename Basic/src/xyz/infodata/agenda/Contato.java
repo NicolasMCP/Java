@@ -1,26 +1,24 @@
 package xyz.infodata.agenda;
 
-public class Pessoa {
+import java.util.List;
+
+public class Contato {
     private String nome;
     private String endereco;
     private String cidade;
     private String uf;
     private String cep;
-    private Telefone fone1;
-    private Telefone fone2;
-    private Telefone fone3;
-    private Telefone fone4;
+    private List<Telefone> telefones;
 
-    public Pessoa(String nome) { this.nome = nome; }
+    public Contato(String nome) { this.nome = nome; }
 
-    public Pessoa(String nome, String endereco, String cidade, String uf, String cep) {
+    public Contato(String nome, String endereco, String cidade, String uf, String cep) {
         this(nome);
         setEndereco(endereco);
         setCidade(cidade);
         setUf(uf);
         setCep(cep);
     }
-
 
     private boolean isUf(String uf) {
         String[] UF = {"AC", "AL", "AM", "AP", "BA", "CE", "DF", "ES", "GO", "MA", "MG", "MS", "MT", "PA",
@@ -60,23 +58,19 @@ public class Pessoa {
 
     public void setCep(String cep) { this.cep = cep; }
 
-    public void setFone1(Telefone fone1) { this.fone1 = fone1; }
+    public List<Telefone> getTelefones() {
+        return telefones;
+    }
 
-    public void setFone2(Telefone fone2) { this.fone2 = fone2; }
-
-    public void setFone3(Telefone fone3) { this.fone3 = fone3; }
-
-    public void setFone4(Telefone fone4) { this.fone4 = fone4; }
+    public void setTelefones(List<Telefone> telefones) {
+        this.telefones = telefones;
+    }
 
     public String getNome() { return nome; }
     public String getEndereco() { return endereco; }
     public String getCidade() { return cidade; }
     public String getUf() { return uf; }
     public String getCep() { return cep; }
-    public Telefone getFone1() { return fone1; }
-    public Telefone getFone2() { return fone2; }
-    public Telefone getFone3() { return fone3; }
-    public Telefone getFone4() { return fone4; }
 
     @Override
     public String toString() {
@@ -86,10 +80,11 @@ public class Pessoa {
         s = getUf() == null ? s : getUf().trim().isEmpty() ? s : s + ", " + getUf();
         s = getCep() == null ? s : getCep().trim().isEmpty() ? s : s + ", " + getCep();
 
-        s = getFone1() == null ? s : s + " " + getFone1().toString();
-        s = getFone2() == null ? s : s + " " + getFone2().toString();
-        s = getFone3() == null ? s : s + " " + getFone3().toString();
-        s = getFone4() == null ? s : s + " " + getFone4().toString();
+        if(getTelefones() != null) {
+            for (Telefone t : getTelefones()) {
+                s += " " + t.toString();
+            }
+        }
 
         s += "]";
         return s;
