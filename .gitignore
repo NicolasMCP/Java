@@ -1,46 +1,7 @@
-# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm 
-# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839 
-# User-specific stuff 
-Basic/.idea/**/workspace.xml 
-Basic/.idea/**/tasks.xml 
-Basic/.idea/**/usage.statistics.xml 
-Basic/.idea/**/dictionaries 
-Basic/.idea/**/shelf 
-# Generated files 
-Basic/.idea/**/contentModel.xml 
-# Sensitive or high-churn files 
-Basic/.idea/**/dataSources/ 
-Basic/.idea/**/dataSources.ids 
-Basic/.idea/**/dataSources.local.xml 
-Basic/.idea/**/sqlDataSources.xml 
-Basic/.idea/**/dynamic.xml 
-Basic/.idea/**/uiDesigner.xml 
-Basic/.idea/**/dbnavigator.xml 
-# Gradle 
-Basic/.idea/**/gradle.xml 
-Basic/.idea/**/libraries 
-# Gradle and Maven with auto-import 
-# When using Gradle or Maven with auto-import, you should exclude module files, 
-# since they will be recreated, and may cause churn.  Uncomment if using 
-# auto-import. 
-# Basic/.idea/modules.xml 
-# Basic/.idea/*.iml 
-# Basic/.idea/modules 
-# Basic/CMake 
-Basic/cmake-build-*/ 
-# Mongo Explorer plugin 
-Basic/.idea/**/mongoSettings.xml 
-# File-based project format 
-Basic/*.iws 
+# Pasta da JetBrain 
+Basic/.idea/
 # IntelliJ dir de saida
 Basic/out/ 
-# mpeltonen/sbt-idea plugin 
-Basic/.idea_modules/ 
-# JIRA plugin 
-atlassian-ide-plugin.xml 
-# Cursive Clojure plugin 
-Basic/.idea/replstate.xml 
-# Editor-based Rest Client 
-Basic/.idea/httpRequests 
 # Outro
 .metadata/
+RemoteSystemsTempFiles/
