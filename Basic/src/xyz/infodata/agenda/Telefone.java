@@ -31,9 +31,7 @@ public class Telefone {
 
     @Override
     public String toString() {
-        String s;
-        s = getTipo() == null || getTelefone() == null || getTelefone().trim().isEmpty()? "" : "[" +  getTipo() + ", " + getTelefone() + "]";
-        return s;
+        return getTipo() == null || getTelefone() == null || getTelefone().trim().isEmpty()? "" : "[" +  getTipo() + ", " + getTelefone() + "]";
     }
 
 }
