@@ -2,6 +2,7 @@
 Basic/.idea/
 # IntelliJ dir de saida
 Basic/out/ 
-# Outro
+# Outros
 .metadata/
 RemoteSystemsTempFiles/
+Basic/Basic.iml

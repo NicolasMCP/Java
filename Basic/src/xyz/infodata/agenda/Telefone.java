@@ -1,4 +1,10 @@
 package xyz.infodata.agenda;
+/*
+ * Autor: Nicolas Ramos
+ * Data : 30/8/2018
+ * Nota : Os Telefones da Agenda...
+ *
+ */
 
 public class Telefone {
     public enum TipoTelefone{ TRABALHO, PARTICULAR }

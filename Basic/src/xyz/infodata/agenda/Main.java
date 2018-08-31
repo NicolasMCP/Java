@@ -1,6 +1,12 @@
 package xyz.infodata.agenda;
 
 import java.util.*;
+/*
+ * Autor: Nicolas Ramos
+ * Data : 30/8/2018
+ * Nota : Visualizando como a Agenda se comporta com dados reais.
+ *
+ */
 
 public class Main {
 
@@ -9,6 +15,7 @@ public class Main {
         usaAgendaNome();
     }
 
+    // Testando com apenas um telefone
     private static void usaAgendaCampos() {
         Contato c = null;
         Telefone t = null;
@@ -20,15 +27,7 @@ public class Main {
         }
 
         try {
-//            t = new Telefone(Telefone.TipoTelefone.TRABALHO, "(47) 9 8888-3333");
             t = new Telefone(Telefone.TipoTelefone.TRABALHO, "(47) 9 8888-3333");
-            list = notNull(c, t, list);
-        } catch (IllegalArgumentException e){
-            System.err.println(e.toString().substring(10));
-        }
-
-        try {
-            t = new Telefone(Telefone.TipoTelefone.PARTICULAR, "(47) 3467-6060");
             list = notNull(c, t, list);
         } catch (IllegalArgumentException e){
             System.err.println(e.toString().substring(10));
