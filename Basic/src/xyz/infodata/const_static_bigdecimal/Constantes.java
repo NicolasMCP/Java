@@ -1,4 +1,4 @@
-package xyz.infodata.static_uso;
+package xyz.infodata.const_static_bigdecimal;
 
 import java.math.BigDecimal;
 /*

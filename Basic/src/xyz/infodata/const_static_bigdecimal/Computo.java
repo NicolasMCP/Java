@@ -1,4 +1,4 @@
-package xyz.infodata.static_uso;
+package xyz.infodata.const_static_bigdecimal;
 /*
  * Autor: Nicolas Ramos
  * Data : 23/05/2018

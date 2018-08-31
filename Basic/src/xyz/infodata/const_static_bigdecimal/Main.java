@@ -1,4 +1,4 @@
-package xyz.infodata.static_uso;
+package xyz.infodata.const_static_bigdecimal;
 /*
  * Autor: Nicolas Ramos
  * Data : 23/05/2018
@@ -25,7 +25,7 @@ public class Main {
 
         System.out.println("c.getOcorrencias(): "+c.getOcorrencias()); /* Usado apenas para demostrar ... */
 
-        System.out.println("A constante PI com do pacote 'java.lang.Math.PI', é: "+java.lang.Math.PI);
+        System.out.println("A constante PI com do pacote 'java.lang.Math.PI', é: "+Math.PI);
         System.out.println("A constante PI com algumas casas decimais a mais, é: "+Constantes.PI);
         System.out.println("A constante PI com ainda mais casas  decimais seria: "+Constantes.PY);
 
