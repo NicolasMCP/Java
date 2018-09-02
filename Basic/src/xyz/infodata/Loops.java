@@ -52,13 +52,13 @@ public class Loops {
     private static void loopFor2() {
 
         System.out.println("int x;");
-        System.out.println("int y;");
-        System.out.println("for(x=0, y=9; x<10; x++, y--)");
+        System.out.println("int x;");
+        System.out.println("for(x=0, x=9; x<10; x++, x--)");
 
         int x;
         int y;
         for(x=0, y=9; x<10; x++, y--) {
-            System.out.println("x: " + x + "  -  y: " + y);
+            System.out.println("x: " + x + "  -  x: " + y);
         }
     }
 

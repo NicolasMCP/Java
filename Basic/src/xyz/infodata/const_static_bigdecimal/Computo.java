@@ -2,7 +2,7 @@ package xyz.infodata.const_static_bigdecimal;
 /*
  * Autor: Nicolas Ramos
  * Data : 23/05/2018
- * Nota : Exemplo de 'static {}'
+ * Nota : Calcula de 'static {}'
  *        Se os métodos usados NÃO afetarão o objeto de nenhuma forma,
  *        esses métodos podem ser estaticos.
  *        Aqui como só vamos interagir com um atributo estatico, os

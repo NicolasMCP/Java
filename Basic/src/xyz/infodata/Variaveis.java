@@ -21,7 +21,7 @@ public class Variaveis {
         var z = true;
 
         System.out.println("var x = " + x + " \tDeclarada Tipo: " + ((Object)x).getClass().getName().substring(10).toLowerCase());
-        System.out.println("var y = " + y + " \tDeclarada Tipo: " + ((Object)y).getClass().getName().substring(10).toLowerCase());
+        System.out.println("var x = " + y + " \tDeclarada Tipo: " + ((Object)y).getClass().getName().substring(10).toLowerCase());
         System.out.println("var z = " + z + " \tDeclarada Tipo: " + ((Object)z).getClass().getName().substring(10).toLowerCase());
     }
 

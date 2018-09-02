@@ -4,7 +4,7 @@ import java.math.BigDecimal;
 /*
  * Autor: Nicolas Ramos
  * Data : 23/05/2018
- * Nota : Exemplo de CONSTANTES (PI, PY, STR_PI, OUTRA)
+ * Nota : Calcula de CONSTANTES (PI, PY, STR_PI, OUTRA)
  *
  */
 
