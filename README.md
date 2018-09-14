@@ -2,6 +2,10 @@
 
 Projetos em Java
 
+
+![PyPI - License](https://img.shields.io/pypi/l/Django.svg?style=for-the-badge)
+
+
 ### Curiosidades
 
 [Loops, double e BigDecimal, Operador Ternario, detalhes variaveis](Basic/src/xyz/infodata) 
@@ -19,4 +23,3 @@ Usando [Constantes BigDecimal](Basic/src/xyz/infodata/const_static_bigdecimal).
 Exemplo de [Agenda](Basic/src/xyz/infodata/agenda). Algo um pouco mais real que classe Cachorro e Classe Gato...
 
 
-[!Licença BSD. Software Livre.]
