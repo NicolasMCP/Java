@@ -1,10 +1,10 @@
 # Java
 
-Projetos em Java
-
 
 ![PyPI - License](https://img.shields.io/pypi/l/Django.svg?style=for-the-badge)
 
+
+Projetos em Java - Software Livre.
 
 ### Curiosidades
 
