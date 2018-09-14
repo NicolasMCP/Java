@@ -6,15 +6,15 @@ Projetos em Java
 
 [Loops, double e BigDecimal, Operador Ternario, detalhes variaveis](Basic/src/xyz/infodata) 
 
-[Construtores](Basic/src/xyz/infodata/construtor) 
+Chamando um [Construtor](Basic/src/xyz/infodata/construtor) desde outro.
 
-[Objetos](Basic/src/xyz/infodata/objetos) 
+Brincando com [Objetos](Basic/src/xyz/infodata/objetos). 
 
-[Datas](Basic/src/xyz/infodata/data)
+[Datas](Basic/src/xyz/infodata/data) e formatos.
 
-[Testes](Basic/src/xyz/infodata/testes)
+[Testes](Basic/src/xyz/infodata/testes) jUnit.
 
-[Constantes BigDecimal](Basic/src/xyz/infodata/const_static_bigdecimal)
+Usando [Constantes BigDecimal](Basic/src/xyz/infodata/const_static_bigdecimal).
 
-[Agenda](Basic/src/xyz/infodata/agenda) Algo um pouco mais real que classe Cachorro e Classe Gato...
+Exemplo de [Agenda](Basic/src/xyz/infodata/agenda). Algo um pouco mais real que classe Cachorro e Classe Gato...
 
