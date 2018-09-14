@@ -18,3 +18,5 @@ Usando [Constantes BigDecimal](Basic/src/xyz/infodata/const_static_bigdecimal).
 
 Exemplo de [Agenda](Basic/src/xyz/infodata/agenda). Algo um pouco mais real que classe Cachorro e Classe Gato...
 
+
+### Licença BSD. Software Livre.
