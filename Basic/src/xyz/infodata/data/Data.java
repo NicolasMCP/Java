@@ -5,9 +5,13 @@ import java.util.Date;
 import java.util.GregorianCalendar;
 /*
  * Autor: Nicolas Ramos
- * Data : 24/05/2018
+ * Data : 10/09/2018
  * Nota : Arquiva uma data recebendo (dia, mes, ano) ou (dia, mes, ano, hora, minuto, segundo).
- *
+ * strData: Devolve uma String da data no formato "dd/MM/yyyy", (caso isSomenteData == false)
+ *          devolve a data junto com o Time no formato de 12 ou 24 horas conforme selecionado.
+ *          No caso isSomenteData == true devolve somente a data, sem horário.
+ * isSomenteData: == true. Se for usado o construtor somente com
+ * getData: Devolve a data.
  */
 
 public class Data {
@@ -34,9 +38,14 @@ public class Data {
         data = gc.getTime();
     }
 
-    public void imprimir(int formato) {
+    public String strData(int formato) {
         SimpleDateFormat sdf = new SimpleDateFormat(somenteData ? "dd/MM/yyyy" :
                 (formato == Data.FORMATO_24H ? "dd/MM/yyyy HH:mm:ss" : "dd/MM/yyyy hh:mm:ss a"));
-        System.out.println(sdf.format(data));
+        return sdf.format(data);
     }
+
+    public Date getData() {
+        return data;
+    }
+
 }
