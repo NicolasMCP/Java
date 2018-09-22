@@ -4,7 +4,7 @@
 ![PyPI - License](https://img.shields.io/pypi/l/Django.svg?style=for-the-badge)
 
 
-Projetos em Java - Software Livre.
+Projetos em Java 8 ou superior - Software Livre.
 
 ### Curiosidades
 
