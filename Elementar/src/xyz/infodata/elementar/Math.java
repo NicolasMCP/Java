@@ -1,4 +1,4 @@
-package xyz.infodata;
+package xyz.infodata.elementar;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;

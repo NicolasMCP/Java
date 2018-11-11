@@ -1,4 +1,4 @@
-package xyz.infodata;
+package xyz.infodata.elementar;
 
 /*
  * Autor: Nicolas Ramos
