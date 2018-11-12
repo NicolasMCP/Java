@@ -8,7 +8,7 @@ Projetos em Java 8 ou superior - Software Livre.
 
 ### Curiosidades
 
-[Loops, double e BigDecimal, Operador Ternario, detalhes variaveis](Basic/src/xyz/infodata) 
+[Loops, double e BigDecimal, Operador Ternario, detalhes variaveis](Basic/src/xyz/infodata/elementar) 
 
 Chamando um [Construtor](Basic/src/xyz/infodata/construtor) desde outro.
 
