@@ -8,18 +8,18 @@ Projetos em Java 8 ou superior - Software Livre.
 
 ### Curiosidades
 
-[Loops, double e BigDecimal, Operador Ternario, detalhes variaveis](Basic/src/xyz/infodata/elementar) 
+[Loops, double e BigDecimal, Operador Ternario, detalhes variaveis](Elementar/src/xyz/infodata/elementar) 
 
-Chamando um [Construtor](Basic/src/xyz/infodata/construtor) desde outro.
+Chamando um [Construtor](Elementar/src/xyz/infodata/elementar/construtor) desde outro.
 
-Brincando com [Objetos](Basic/src/xyz/infodata/objetos). 
+Brincando com [Objetos](Elementar/src/xyz/infodata/elementar/objetos). 
 
-[Datas](Basic/src/xyz/infodata/data) e formatos.
+[Datas](Elementar/src/xyz/infodata/elementar/data) e formatos.
 
-[Testes](Basic/src/xyz/infodata/testes) jUnit.
+[Testes](Elementar/src/xyz/infodata/elementar/testes) jUnit.
 
-Usando [Constantes BigDecimal](Basic/src/xyz/infodata/const_static_bigdecimal).
+Usando [Constantes BigDecimal](Elementar/src/xyz/infodata/elementar/const_static_bigdecimal).
 
-Exemplo de [Agenda](Basic/src/xyz/infodata/agenda). Algo um pouco mais real que classe Cachorro e Classe Gato...
+Exemplo de [Agenda](Elementar/src/xyz/infodata/elementar/agenda). Algo um pouco mais real que Classe Cachorro e Classe Gato...
 
 
