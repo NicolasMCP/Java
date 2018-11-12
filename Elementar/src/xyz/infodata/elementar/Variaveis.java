@@ -1,7 +1,9 @@
 package xyz.infodata.elementar;
-/*
- * Autor: Nicolas Ramos
- * Nota : Alguns detalhes sobre variáveis.
+
+/**
+ * Alguns detalhes sobre variáveis.
+ * @author Nicolas Ramos {@link nicolas@infodata.xyz}
+ *
  */
 public class Variaveis {
 

@@ -1,12 +1,10 @@
 package xyz.infodata.elementar;
 
-/*
- * Autor: Nicolas Ramos
- * Data : 23/08/2018
- * Nota : Apenas para lembrar o uso do operador ternario; o resultado foi colocado em uma String str,
- *        para isolar tanto o 'if' como o 'Operador Ternário' e fique um exemplo mais claro.
+/**
+ * Um exemplo simples para lembrar o uso do operador ternario.
+ * @author Nicolas Ramos {@link nicolas@infodata.xyz}<br>
+ * Resultado impresso no Console.
  */
-
 public class OperadorTernario {
 
     public static void main(String[] args) {

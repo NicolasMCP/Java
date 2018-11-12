@@ -24,17 +24,17 @@ public class Math {
     public BigDecimal somaBig(String a, String b) {
         BigDecimal num_a = new BigDecimal(a);
         BigDecimal num_b = new BigDecimal(b);
-        return somaBig(a, b);
+        return somaBig(num_a, num_b);
     }
     
     public BigDecimal somaBig(BigDecimal a, String b) {
     	BigDecimal num_b = new BigDecimal(b);
-    	return somaBig(a, b);
+    	return somaBig(a, num_b);
     }
     
     public BigDecimal somaBig(String a, BigDecimal b) {
     	BigDecimal num_a = new BigDecimal(a);
-    	return somaBig(a, b);
+    	return somaBig(num_a, b);
     }
 
     /**
