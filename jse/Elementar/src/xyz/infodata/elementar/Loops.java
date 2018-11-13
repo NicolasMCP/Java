@@ -2,8 +2,8 @@ package xyz.infodata.elementar;
 
 /**
  * Demostra as diferenças e semelhanças de tipos de Loops do Java.
- * @author Nicolas Ramos {@link nicolas@infodata.xyz}
- *
+ * @author Nicolas Ramos {@link nicolas@infodata.xyz}<br>
+ * Java 8
  */
 public class Loops {
 
