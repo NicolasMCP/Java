@@ -1,4 +1,4 @@
-package xyz.infodata.elementar.data.test_junit;
+package xyz.infodata.elementar.testes;
 
 
 import static org.junit.Assert.assertEquals;
@@ -10,7 +10,7 @@ import xyz.infodata.elementar.data.Data;
 /**
  * Testes jUnit da classe Data
  * @author Nicolas Ramos {@link nicolas@infodata.xyz}<br>
- * Java 11 (também testado em Java 8 anteriormente)
+ * Java 11 (já testado em Java 8)
  */
 class DataTest {
 
