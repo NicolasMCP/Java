@@ -18,7 +18,7 @@ Brincando com [Objetos](jse/Elementar/src/xyz/infodata/elementar/objetos).
 
 [Testes](jse/Elementar/src/xyz/infodata/elementar/testes) jUnit.
 
-Usando [Constantes BigDecimal](jse/Elementar/src/xyz/infodata/elementar/const_static_bigdecimal).
+Usando [Constantes BigDecimal](jse/Elementar/src/xyz/infodata/elementar/constantes/bigdecimal).
 
 Exemplo de [Agenda](jse/Elementar/src/xyz/infodata/elementar/agenda). Algo um pouco mais real que Classe Cachorro e Classe Gato...
 
