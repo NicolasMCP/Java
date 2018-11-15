@@ -19,7 +19,7 @@ public class Aplicacao {
         for(int i=0; i<10; i++) { Computo.maisUma(); }
         System.out.println("Computo.getOcorrencias(): "+Computo.getOcorrencias());
 
-        System.out.println("c.getOcorrencias(): "+computo.getOcorrencias()); /* Usado apenas para demostrar ... */
+        System.out.println("computo.getOcorrencias(): "+computo.getOcorrencias()); /* Usado apenas para demostrar ... */
 
         System.out.println("A constante PI com do pacote 'java.lang.Math.PI', é: "+Math.PI);
         System.out.println("A constante PI com algumas casas decimais a mais, é: "+Constantes.PI);
