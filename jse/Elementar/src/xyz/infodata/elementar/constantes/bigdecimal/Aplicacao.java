@@ -1,13 +1,14 @@
 package xyz.infodata.elementar.constantes.bigdecimal;
 
 /**
- * Argumentos, constantes e métodos Usando 'static'. Como se comportam ?
+ * Argumentos, constantes e métodos Usando 'static'.<br>
+ * Aqui vemos como se comportam.
  * @author Nicolas Ramos {@link nicolas@infodata.xyz}
  *
  */
 public class Aplicacao {
 
-    @SuppressWarnings("static-access")
+	@SuppressWarnings("static-access")
 	public static void main(String[] args) {
 
         System.out.println(Computo.getOcorrencias()+" => private static int ocorrencias;");
