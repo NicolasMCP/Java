@@ -4,7 +4,7 @@ package xyz.infodata.elementar;
  * Um exemplo simples para lembrar o uso do operador ternario.
  * @author Nicolas Ramos {@link nicolas@infodata.xyz}<br>
  * Resultado impresso no Console.<br>
- * Java 8
+ * Java 11 (já testado em Java 8)
  */
 public class OperadorTernario {
 
