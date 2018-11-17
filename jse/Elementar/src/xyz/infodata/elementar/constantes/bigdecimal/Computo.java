@@ -5,7 +5,7 @@ package xyz.infodata.elementar.constantes.bigdecimal;
  * @author Nicolas Ramos {@link nicolas@infodata.xyz}<br>
  * Se os métodos usados NÃO afetarão o objeto de nenhuma forma, esses métodos podem ser estaticos.<br>
  * Aqui como só vamos interagir com um atributo estatico, os métodos também podem ser estaticos...
- *
+ * Java 11 (já testado em Java 8)
  */
 public class Computo {
     /* os atributos ESTATICOS pertencem a CLASSE não ao objeto (se este existir) */

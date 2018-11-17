@@ -4,7 +4,7 @@ package xyz.infodata.elementar.constantes.bigdecimal;
  * Argumentos, constantes e métodos Usando 'static'.<br>
  * Aqui vemos como se comportam.
  * @author Nicolas Ramos {@link nicolas@infodata.xyz}
- *
+ * Java 11 (já testado em Java 8)
  */
 public class Aplicacao {
 
