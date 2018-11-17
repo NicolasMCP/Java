@@ -3,7 +3,7 @@ package xyz.infodata.elementar.objetos;
 /**
  * Classe Calcula, criada para demostrar o isolamento dos objetos...
  * @author Nicolas Ramos {@link nicolas@infodata.xyz}<br>
- * Java 8
+ * Java 11 (já testado em Java 8)
  */
 public class Calcula {
     protected int x = 10;

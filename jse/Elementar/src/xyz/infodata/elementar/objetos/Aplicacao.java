@@ -4,7 +4,7 @@ package xyz.infodata.elementar.objetos;
  * A Classe Main Demostra o isolamento dos objetos...<br>
  * USE DEBUG (com Step Into) para acompanhar o desenrolar da execução passo a passo.
  * @author Nicolas Ramos {@link nicolas@infodata.xyz}<br>
- * Java 8
+ * Java 11 (já testado em Java 8)
  */
 public class Aplicacao {
     public static void main(String[] args) {
