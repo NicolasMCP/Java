@@ -3,7 +3,7 @@ package xyz.infodata.elementar;
 /**
  * Alguns detalhes sobre variáveis.
  * @author Nicolas Ramos {@link nicolas@infodata.xyz}<br>
- * Java 11
+ * Java 11 (declaraVar() exige Java 11, o resto Java 8)
  */
 public class Variaveis {
 
@@ -18,7 +18,7 @@ public class Variaveis {
 
     private static void declaraVar() {
     	
-    	// para poder testar as declarações 'var' mude para Java 11
+    	// para poder testar as declarações 'var' use Java 11
         var x = 200;    
         var y = 33.44;  
         var z = true;   
