@@ -1,10 +1,6 @@
 package xyz.infodata.elementar.testes;
-
-
 import static org.junit.Assert.assertEquals;
-
 import org.junit.jupiter.api.Test;
-
 import xyz.infodata.elementar.data.Data;
 
 /**

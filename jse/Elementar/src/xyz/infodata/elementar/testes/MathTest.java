@@ -1,5 +1,4 @@
 package xyz.infodata.elementar.testes;
-
 import org.junit.jupiter.api.Test;
 import xyz.infodata.elementar.Math;
 import java.util.Arrays;
