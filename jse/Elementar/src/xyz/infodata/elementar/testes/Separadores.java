@@ -4,7 +4,7 @@ import java.io.File;
 /**
  * Apenas ums testes de comandos java.
  * @author Nicolas Ramos {@link nicolas@infodata.xyz}
- *
+ * Java 11 (já testado em Java 8)
  */
 public class Separadores {
 
