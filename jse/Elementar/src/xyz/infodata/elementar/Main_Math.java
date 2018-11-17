@@ -5,7 +5,7 @@ import java.math.BigDecimal;
 /**
  * Executando alguns exemplos da Classe 'Math' (neste mesmo pakage), comparação do uso de 'BigDecimal' e 'double' e alguns perturbadores resultados.
  * @author Nicolas Ramos {@link nicolas@infodata.xyz}<br>
- * Java 8
+ * Java 11 (já testado em Java 8)
  */
 public class Main_Math {
 
