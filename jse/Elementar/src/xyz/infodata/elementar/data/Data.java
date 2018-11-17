@@ -10,6 +10,7 @@ import java.util.GregorianCalendar;
  * <b>getData</b> devolve a <b>data</b> sem formatar<br>
  * <b>isSomenteData</b> devolve <b>true</b> se foi informada somente a data<br>
  * <b>strData(FORMATO)</b> devolve a data formatada, e a hora se contiver em FORMATO
+ * Java 11 (já testado em Java 8)
  */
 public class Data {
 
