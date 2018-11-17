@@ -3,8 +3,7 @@ package xyz.infodata.elementar.construtor;
 /**
  * Exemplificando o uso de 'Construtores'.
  * @author Nicolas Ramos {@link nicolas@infodata.xyz}<br>
- * Java 8
- *
+ * Java 11 (já testado em Java 8)
  */
 public class Aplicacao {
 
