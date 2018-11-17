@@ -16,7 +16,7 @@ Brincando com [Objetos](jse/Elementar/src/xyz/infodata/elementar/objetos).
 
 [Datas](jse/Elementar/src/xyz/infodata/elementar/data) e formatos.
 
-[Testes](jse/Elementar/src/xyz/infodata/elementar/testes) jUnit.
+[Testes](jse/Elementar/src/xyz/infodata/elementar/testes) com jUnit5.
 
 Usando [Constantes BigDecimal](jse/Elementar/src/xyz/infodata/elementar/constantes/bigdecimal).
 
