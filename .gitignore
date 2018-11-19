@@ -1,7 +1,5 @@
-# Pasta da JetBrain 
-Basic/.idea/
-# IntelliJ dir de saida
-Basic/out/ 
+# Exercícios da Softblue, curso Java Fundamentos 11
+softblue/ 
 # Outros
 .metadata/
 RemoteSystemsTempFiles/
