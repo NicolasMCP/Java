@@ -39,7 +39,7 @@ public class Loops {
     /**
      * Demostração de um loop com o comando: 'while'.<br>
      * O parámetro pode ser omitido se for criada (antes do comando 'while') a linha:<br>
-     * int contador = 0;
+     * int contador = 0;<br>
      * @param contador fornece o inicio da contagem
      */
     private static void loopWhile(int contador) {
