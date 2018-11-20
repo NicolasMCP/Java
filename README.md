@@ -14,7 +14,9 @@ Chamando um [Construtor](jse/Elementar/src/xyz/infodata/elementar/construtor) de
 
 Brincando com [Objetos](jse/Elementar/src/xyz/infodata/elementar/objetos). 
 
-[Datas](jse/Elementar/src/xyz/infodata/elementar/data) e formatos.
+[Datas](jse/Elementar/src/xyz/infodata/elementar/data) e formatos (Legado).
+
+[Datas](jse/Elementar/src/xyz/infodata/elementar/data/thread/safe) e formatos LocalDate, LocalTime, Period e Duration (Novo).
 
 [Testes](jse/Elementar/src/xyz/infodata/elementar/testes) com jUnit5.
 
