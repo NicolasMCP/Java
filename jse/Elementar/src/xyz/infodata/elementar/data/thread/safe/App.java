@@ -10,7 +10,8 @@ import java.time.format.DateTimeFormatter;
  * Demostra o uso de LocalDate, LocalTime, Period e Duration.<br>
  * São thread-safe, quando trabalhar com thread você praticamente não se preocupa com elas.
  * @author Nicolas Ramos {@link nicolas@infodata.xyz}<br>
- * Java 11 (é precisso Java 8 ou superior)
+ * Java 11 (é precisso Java 8 ou superior)<br>
+ * <b>Nota:</b> Se quiser usar o formato de 12 horas, substitua 'format(formato24H)' por 'format(formato12H)'.
  */
 public class App {
 
