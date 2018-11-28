@@ -16,7 +16,7 @@ Brincando com [Objetos](jse/Elementar/src/xyz/infodata/elementar/objetos).
 
 [Datas](jse/Elementar/src/xyz/infodata/elementar/data) e formatos (Legado).
 
-[Datas](jse/Elementar/src/xyz/infodata/elementar/data/thread/safe/App.java) e formatos LocalDate, LocalTime, Period e Duration (Desde o Java 8).
+[Datas](jse/Elementar/src/xyz/infodata/elementar/data/thread/safe/App.java) e formatos LocalDate, LocalTime, Period e Duration (Incluidos no Java desde a versão 8).
 
 [Testes](jse/Elementar/src/xyz/infodata/elementar/testes) com jUnit5.
 
