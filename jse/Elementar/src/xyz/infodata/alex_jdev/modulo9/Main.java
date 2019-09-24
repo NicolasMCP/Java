@@ -13,38 +13,39 @@ package xyz.infodata.alex_jdev.modulo9;
 import java.util.ArrayList;
 import java.util.List;
 
+
 public class Main {
 
 	public static void main(String[] args) {
 		
-		List<Cliente> clientes = new ArrayList<>();
+		List<Aluno> alunos = new ArrayList<>();
 		
-		preencheDadosParaTestes(clientes);
+		preencheDadosParaTestes(alunos);
 		
 		// comente a seguinte linha e construa seus módulos de testes
-		listarDadosClientes(clientes);
+		listarDadosAlunos(alunos);
 	}
 	
-	private static void listarDadosClientes(List<Cliente> cli) {
+	private static void listarDadosAlunos(List<Aluno> alunos) {
 		
-		for (Cliente cliente : cli) {
+		for (Aluno aluno : alunos) {
 			
-			System.out.println("Cliente Id  : " + cliente.getId());
-			System.out.println("Cliente Nome: " + cliente.getNome());
+			System.out.print("Id: " + aluno.getId());
+			System.out.println(" - Aluno(a): " + aluno.getNome());
 			
-			for(Disciplina dis : cliente.getListaDisciplinas()) {
+			for(Disciplina dis : aluno.getListaDisciplinas()) {
 				
-				System.out.print("    Disciplina: " + dis.getNome() + " Nota: " + dis.getNota());
+				System.out.print("  Disciplina: " + dis.getNome() + " Nota: " + dis.getNota());
 			}
-			System.out.println();
+			System.out.println(System.lineSeparator());
 		}
 	}
 
-	private static void preencheDadosParaTestes(List<Cliente> clientes) {
+	private static void preencheDadosParaTestes(List<Aluno> alunos) {
 		
-		Cliente cli = new Cliente();
-		cli.setId(1);
-		cli.setNome("Macarena");
+		Aluno aluno = new Aluno();
+		aluno.setId(1);
+		aluno.setNome("Macarena");
 		
 		Disciplina disciplina;
 		
@@ -59,14 +60,14 @@ public class Main {
 //			if(cli.getListaDisciplinas() == null) {
 //				cli.setListaDisciplinas(new ArrayList<Disciplina>());
 //			}
-			cli.getListaDisciplinas().add(disciplina);
+			aluno.getListaDisciplinas().add(disciplina);
 		}
 		
-		clientes.add(cli);
+		alunos.add(aluno);
 		
-		cli = new Cliente();
-		cli.setId(2);
-		cli.setNome("Alejandra");
+		aluno = new Aluno();
+		aluno.setId(2);
+		aluno.setNome("Alejandra");
 		
 		nome = new String[] {"Java","JS", "Vue.js"};
 		notas = new Integer[] {69, 38, 24};
@@ -75,14 +76,14 @@ public class Main {
 			disciplina = new Disciplina();
 			disciplina.setNome(nome[i]);
 			disciplina.setNota(notas[i]);
-			cli.getListaDisciplinas().add(disciplina);
+			aluno.getListaDisciplinas().add(disciplina);
 		}
 		
-		clientes.add(cli);
+		alunos.add(aluno);
 		
-		cli = new Cliente();
-		cli.setId(3);
-		cli.setNome("Paola");
+		aluno = new Aluno();
+		aluno.setId(3);
+		aluno.setNome("Paola");
 		
 		nome = new String[] {"Java","SQL", "html5/css/JS"};
 		notas = new Integer[] {84, 66, 70};
@@ -91,10 +92,10 @@ public class Main {
 			disciplina = new Disciplina();
 			disciplina.setNome(nome[i]);
 			disciplina.setNota(notas[i]);
-			cli.getListaDisciplinas().add(disciplina);
+			aluno.getListaDisciplinas().add(disciplina);
 		}
 		
-		clientes.add(cli);
+		alunos.add(aluno);
 	}
 
 }

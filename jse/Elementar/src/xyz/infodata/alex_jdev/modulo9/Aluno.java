@@ -7,7 +7,7 @@ package xyz.infodata.alex_jdev.modulo9;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Cliente {
+public class Aluno {
 
 		private String nome;
 		private long id;
