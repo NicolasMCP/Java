@@ -22,7 +22,9 @@ Brincando com [Objetos](jse/Elementar/src/xyz/infodata/elementar/objetos).
 
 [Datas](jse/Elementar/src/xyz/infodata/elementar/data/thread/safe/App.java) e formatos LocalDate, LocalTime, Period e Duration (Incluidos no Java desde a versão 8).
 
-[Testes](jse/Elementar/src/xyz/infodata/elementar/testes) com jUnit5.
+[Testes](jse/Elementar/src/xyz/infodata/elementar/testesjunit) com jUnit5.
+
+[Separadores](jse/Elementar/src/xyz/infodata/elementar/teste/codigo) separadores independentes do SO.
 
 Usando [Constantes BigDecimal](jse/Elementar/src/xyz/infodata/elementar/constantes/bigdecimal).
 
