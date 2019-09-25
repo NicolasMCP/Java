@@ -3,6 +3,7 @@ package xyz.infodata.alex_jdev.modulo10.aula03;
  * Autor: Nicolas Ramos
  * Nota : Objetivo e produzir exemplos para melhor compreensão do MÓDULO 10 do 
  *        curso do Alex, da aula 3.
+ *        
  *        https://cursocompletoemjsfcomprimeface.club.hotmart.com/lesson/RMe1ra5N7Y/sintaxe-correta-da-heranca
  *        
  *        Os meus exemplos NÃO são iguais, nem com EXACTAMENTE o mesmo código, mas tem semelhanças.
