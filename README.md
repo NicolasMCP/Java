@@ -30,6 +30,8 @@ Usando [Constantes BigDecimal](jse/Elementar/src/xyz/infodata/elementar/constant
 
 Exemplo de [Agenda](jse/Elementar/src/xyz/infodata/elementar/agenda). Algo um pouco mais real que Classe Cachorro e Classe Gato...
 
+Curso [Softblue-Java12-modulo14] (threads/implementando/ImplementandoThreads/UsarThreadViaInterfaces/src/xyz/infodata/interfaces/threads/mil). Código implementado com interface.
+
 Curso [Alex-jdev-modulo9](jse/Elementar/src/xyz/infodata/alex_jdev/modulo9). Preenchimento de dados para testes.
 
 Curso [Alex-jdev-modulo10](jse/Elementar/src/xyz/infodata/alex_jdev/modulo10). Código para ajuda na compreensão do módulo.
