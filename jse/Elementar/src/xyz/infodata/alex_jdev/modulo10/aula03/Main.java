@@ -31,15 +31,60 @@ public class Main {
 		List<Diretor> diretores = new ArrayList<>();
 		preencheDadosDiretores(diretores);
 		
+		List<Secretario> secretarios = new ArrayList<>();
+		preencheDadosSecretarios(secretarios);
+		
 		// comente a seguinte linha e construa seus módulos de testes
 		listarDadosAlunos(alunos);
 		
 		// comente a seguinte linha e construa seus módulos de testes
 		listarDadosDiretores(diretores);
 		
+		// comente a seguinte linha e construa seus módulos de testes
+		listarDadosSecretarios(secretarios);
 	}
 	
 	
+	private static void listarDadosSecretarios(List<Secretario> secretarios) {
+		
+		for (Secretario secretario : secretarios) {
+			System.out.println(secretario);
+			System.out.println();
+		}
+		
+	}
+
+
+	private static void preencheDadosSecretarios(List<Secretario> secretarios) {
+		
+		Secretario secretario = new Secretario();
+		secretario.setId(6L);
+		secretario.setNome("Olga Lüders");
+		secretario.setCpf("555.555.555-55");
+		secretario.setRg("3.121.253");
+		secretario.setRegistro("SEC9282");
+		secretario.setDataNascimento(LocalDate.of(1970, 4, 16));
+		secretario.setNivelCargo("Efetivo");
+		secretario.setExperiencia("Senior");
+		
+		secretarios.add(secretario);
+		
+		secretario = new Secretario();
+		secretario.setId(7L);
+		secretario.setNome("Gertrudes Fisher");
+		secretario.setCpf("767.676.747-11");
+		secretario.setRg("4.644.879");
+		secretario.setRegistro("SEC9282S");
+		secretario.setDataNascimento(LocalDate.of(1991, 8, 31));
+		secretario.setNivelCargo("Substituto");
+		secretario.setExperiencia("Jr");
+		
+		secretarios.add(secretario);
+		
+		
+	}
+
+
 	private static void listarDadosDiretores(List<Diretor> diretores) {
 		
 		for (Diretor diretor : diretores) {
