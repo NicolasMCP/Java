@@ -19,3 +19,12 @@ threads/implementando/ImplementandoThreads/UsarThreadViaInterfaces/.classpath
 threads/implementando/ImplementandoThreads/UsarThreadViaInterfaces/.gitignore
 threads/implementando/ImplementandoThreads/UsarThreadViaInterfaces/.project
 threads/implementando/ImplementandoThreads/UsarThreadViaInterfaces/.settings/
+/.project
+Maromba/
+code_intelliJ/
+loucademia-arq/
+or_e_and/
+teste_common/
+testes/
+jse/Elementar/.*
+jse/Elementar/.*/
