@@ -15,14 +15,13 @@ package xyz.infodata.alex_jdev.modulo10.aula05;
  */
 
 import java.time.LocalDate;
-import java.util.ArrayList;
 import java.util.List;
 
 public class Main {
 
 	public static void main(String[] args) {
 		 
-		/* código copiado de 
+		/* código em: 
 		 * https://github.com/NicolasMCP/Java/blob/master/jse/Elementar/src/xyz/infodata/alex_jdev/modulo10/aula04/Main.java
 		 */
 		Aluno aluno = new Aluno();
