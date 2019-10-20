@@ -24,7 +24,7 @@ Brincando com [Objetos](jse/Elementar/src/xyz/infodata/elementar/objetos).
 
 [Testes](jse/Elementar/src/xyz/infodata/elementar/testesjunit) com jUnit5.
 
-[Separadores](jse/Elementar/src/xyz/infodata/elementar/teste/codigo) separadores independentes do SO.
+[Separadores](jse/Elementar/src/xyz/infodata/elementar/teste/codigo) independentes do SO.
 
 Usando [Constantes BigDecimal](jse/Elementar/src/xyz/infodata/elementar/constantes/bigdecimal).
 
