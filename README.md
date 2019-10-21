@@ -12,7 +12,7 @@ Exemplos simples do [for](jse/Elementar/src/xyz/infodata/elementar/LoopFor.java)
 
 Exemplo super simples do [while, do while](jse/Elementar/src/xyz/infodata/elementar/LoopWhile.java)
 
-[double e BigDecimal, Operador Ternario, detalhes variaveis](jse/Elementar/src/xyz/infodata/elementar) 
+[double e BigDecimal, Operador Ternario, detalhes variaveis](Elementar/src/xyz/infodata) 
 
 Chamando um [Construtor](jse/Elementar/src/xyz/infodata/elementar/construtor) desde outro.
 
