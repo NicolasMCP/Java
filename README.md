@@ -38,5 +38,5 @@ Curso [Alex-jdev-modulo10](jse/Elementar/src/xyz/infodata/alex_jdev/modulo10). C
 
 Curso [Alex-jdev-modulodesconhecido/aulaarray/](jse/Elementar/src/xyz/infodata/alex_jdev/modulodesconhecido/aulaarray/). Código para ajuda na compreensão do Pedro Henrique.
 
-
+[Var x Atributos](jse/Elementar/src/xyz/infodata/elementar/atributosxvar/). Mostrar como as variaveis NÃO são inicializadas e os atributos SIM.
 
