@@ -5,8 +5,16 @@
 
 ![escolha](0-escolha.png)
 
+
 * ***```Configure no eclipse o OpenJDK13```***
 
+
 ![config](2-config-openjdk13.png)
+
+
+* ***```No Projeto, Properties```***
+
+
+![config](3-projeto.png)
 
 
