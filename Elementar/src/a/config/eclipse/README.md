@@ -32,6 +32,8 @@ Estes progetos são todos codificados com o encoding mais comum e abrangente UTF
 
 Escolha a versão de seu java de compilação (no caso destes projetos preferi a versão 13)
 
+no curso do Alex ele aconselha que você use o jdk 8 (você pode configurar isso aqui...)
+
 
 ![compiler](5-java-compiler.png)
 
