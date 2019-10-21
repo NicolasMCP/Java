@@ -37,4 +37,28 @@ no curso do Alex ele aconselha que você use o jdk 8 (você pode configurar isso
 
 ![compiler](5-java-compiler.png)
 
+ 
+* ***```Java Build Path```***
+
+
+E bom dar uma conferidinha no Java Build Path para ver se a livraria esta ok
+
+
+![build](6-java-build-path.png)
+
+ 
+* ***```Acesse escolha novamente```***
+
+
+![novamente](7-novamente-escolha.png)
+
+ 
+* ***```Revisão Ortografica```***
+
+
+Adicione o diccionario em Português do Brasil para que o eclipse corrija as palabras.
+
+
+![dic](8-diccionario-portugues.png)
+
 
