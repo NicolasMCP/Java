@@ -15,6 +15,24 @@
 * ***```No Projeto, Properties```***
 
 
-![config](3-projeto.png)
+![projeto](3-projeto.png)
+
+
+* ***```Mude o Encoding```***
+
+
+Estes progetos são todos codificados com o encoding mais comum e abrangente UTF-8
+
+
+![encoding](4-encoding.png)
+
+ 
+* ***```Java Compiler```***
+
+
+Escolha a versão de seu java de compilação (no caso destes projetos preferi a versão 13)
+
+
+![compiler](5-java-compiler.png)
 
 
