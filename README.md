@@ -8,37 +8,37 @@ Projetos em Java 8 ou superior - Software Livre.
 
 ### Curiosidades
 
-Exemplos simples do [for](jse/Elementar/src/xyz/infodata/elementar/LoopFor.java)
+Exemplos simples do [for](Elementar/src/xyz/infodata/LoopFor.java)
 
-Exemplo super simples do [while, do while](jse/Elementar/src/xyz/infodata/elementar/LoopWhile.java)
+Exemplo super simples do [while, do while](Elementar/src/xyz/infodata/LoopWhile.java)
 
 [double e BigDecimal, Operador Ternario, detalhes variaveis](Elementar/src/xyz/infodata) 
 
-Chamando um [Construtor](jse/Elementar/src/xyz/infodata/elementar/construtor) desde outro.
+Chamando um [Construtor](Elementar/src/xyz/infodata/construtor) desde outro.
 
-Brincando com [Objetos](jse/Elementar/src/xyz/infodata/elementar/objetos). 
+Brincando com [Objetos](Elementar/src/xyz/infodata/objetos). 
 
-[Datas](jse/Elementar/src/xyz/infodata/elementar/data) e formatos (Legado).
+[Datas](Elementar/src/xyz/infodata/data) e formatos (Legado).
 
-[Datas](jse/Elementar/src/xyz/infodata/elementar/data/thread/safe/App.java) e formatos LocalDate, LocalTime, Period e Duration (Incluidos no Java desde a versão 8).
+[Datas](Elementar/src/xyz/infodata/data/thread/safe/App.java) e formatos LocalDate, LocalTime, Period e Duration (Incluidos no Java desde a versão 8).
 
-[Testes](jse/Elementar/src/xyz/infodata/elementar/testesjunit) com jUnit5.
+[Testes](Elementar/src/xyz/infodata/testesjunit) com jUnit5.
 
-[Separadores](jse/Elementar/src/xyz/infodata/elementar/teste/codigo) independentes do SO.
+[Separadores](Elementar/src/xyz/infodata/teste/codigo) independentes do SO.
 
-Usando [Constantes BigDecimal](jse/Elementar/src/xyz/infodata/elementar/constantes/bigdecimal).
+Usando [Constantes BigDecimal](Elementar/src/xyz/infodata/constantes/bigdecimal).
 
-Exemplo de [Agenda](jse/Elementar/src/xyz/infodata/elementar/agenda). Algo um pouco mais real que Classe Cachorro e Classe Gato...
+Exemplo de [Agenda](Elementar/src/xyz/infodata/agenda). Algo um pouco mais real que Classe Cachorro e Classe Gato...
 
 Curso [Softblue-Java12-modulo14](threads/implementando/ImplementandoThreads/UsarThreadViaInterfaces/src/xyz/infodata/interfaces/threads/mil). Mil Threads implementadas com interface.
 
-Curso [Alex-jdev-modulo9](jse/Elementar/src/xyz/infodata/alex_jdev/modulo9). Preenchimento de dados para testes.
+Curso [Alex-jdev-modulo9](Elementar/src/xyz/infodata/alex_jdev/modulo9). Preenchimento de dados para testes.
 
 Curso [Alex-jdev-modulo10](Elementar/src/xyz/infodata/alex_jdev/modulo10). Código para ajuda na compreensão do módulo.
 
-Curso [Alex-jdev-modulodesconhecido/aulaarray/](jse/Elementar/src/xyz/infodata/alex_jdev/modulodesconhecido/aulaarray/). Código para ajuda na compreensão do Pedro Henrique.
+Curso [Alex-jdev-modulodesconhecido/aulaarray/](Elementar/src/xyz/infodata/alex_jdev/modulodesconhecido/aulaarray/). Código para ajuda na compreensão do Pedro Henrique.
 
-[Var x Atributos](jse/Elementar/src/xyz/infodata/elementar/atributosxvar/). Mostrar como as variaveis NÃO são inicializadas e os atributos SIM.
+[Var x Atributos](Elementar/src/xyz/infodata/atributosxvar/). Mostrar como as variaveis NÃO são inicializadas e os atributos SIM.
 
 [Exemplo Oracle](Elementar/src/oracle/). Usando JDK 13, String multilinha contendo car. especiais aspas, etc.
 
