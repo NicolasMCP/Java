@@ -34,7 +34,7 @@ Curso [Softblue-Java12-modulo14](threads/implementando/ImplementandoThreads/Usar
 
 Curso [Alex-jdev-modulo9](jse/Elementar/src/xyz/infodata/alex_jdev/modulo9). Preenchimento de dados para testes.
 
-Curso [Alex-jdev-modulo10](jse/Elementar/src/xyz/infodata/alex_jdev/modulo10). Código para ajuda na compreensão do módulo.
+Curso [Alex-jdev-modulo10](Elementar/src/xyz/infodata/alex_jdev/modulo10). Código para ajuda na compreensão do módulo.
 
 Curso [Alex-jdev-modulodesconhecido/aulaarray/](jse/Elementar/src/xyz/infodata/alex_jdev/modulodesconhecido/aulaarray/). Código para ajuda na compreensão do Pedro Henrique.
 

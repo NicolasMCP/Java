@@ -1,4 +1,4 @@
-package xyz.infodata.alex_jdev.modulo9;
+package xyz.infodata.alex_jdev.modulo09;
 /*
  * Autor: Nicolas Ramos 
  * Nota : Classe Principal, automatizada a entrada de dados para proseguir
