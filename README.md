@@ -40,3 +40,7 @@ Curso [Alex-jdev-modulodesconhecido/aulaarray/](jse/Elementar/src/xyz/infodata/a
 
 [Var x Atributos](jse/Elementar/src/xyz/infodata/elementar/atributosxvar/). Mostrar como as variaveis NÃO são inicializadas e os atributos SIM.
 
+[Exemplo Oracle](Elementar/src/oracle/). Usando JDK 13, String multilinha contendo car. especiais aspas, etc.
+
+[Config Eclipse](Elementar/src/a/config/eclipse/README.md). Usando JDK 13. Configurações no Eclipse 2019-09.
+
