@@ -3,7 +3,11 @@ package xyz.infodata;
 /**
  * Alguns detalhes sobre variáveis.
  * @author Nicolas Ramos {@link nicolas@infodata.xyz}<br>
- * Java 11 (declaraVar() exige Java 11, o resto Java 8)
+ * 
+ * Testado em JDK 11 e JDK 13
+ * 
+ * declaraVar() exige Java 10 ou superior, por causa das declarações var...
+ * o resto do código testado em JDK 8
  */
 public class Variaveis {
 

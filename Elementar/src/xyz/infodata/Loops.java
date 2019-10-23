@@ -3,7 +3,8 @@ package xyz.infodata;
 /**
  * Demostra as diferenças e semelhanças de tipos de Loops do Java.
  * @author Nicolas Ramos {@link www.infodata.xyz}<br>
- * Java 11 (já testado em Java 8)
+ * 
+ * Testado JDK 8, JDK 11 e JDK 13
  */
 public class Loops {
 

@@ -4,8 +4,11 @@ package xyz.infodata;
  * Um exemplo simples para lembrar o uso do operador ternario.
  * @author Nicolas Ramos {@link nicolas@infodata.xyz}<br>
  * Resultado impresso no Console.<br>
- * Java 11 (já testado em Java 8)
+ * 
+ * Testado em JDK 8, JDK 11, JDK 13.
+ * 
  */
+
 public class OperadorTernario {
 
     public static void main(String[] args) {

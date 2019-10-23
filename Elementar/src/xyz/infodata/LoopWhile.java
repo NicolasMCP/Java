@@ -3,8 +3,12 @@ package xyz.infodata;
 /**
  * @author Nicolas Ramos {@link www.infodata.xyz}
  * 
- * Java 5 a 12
+ * Java 5 a 13
+ * 
+ * Testado em JDK 13
+ * 
  */
+
 public class LoopWhile {
 
     public static void main(String[] args) {
