@@ -1,4 +1,4 @@
-package xyz.infodata.interfaces.threads.mil;
+package xyz.infodata.threads;
 /*
  * Autor: Nicolas Ramos
  * Nota : Implementação que visa imitar a implementação do MODULO 14 AULA 03 da Softblue

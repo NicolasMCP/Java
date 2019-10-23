@@ -1,4 +1,4 @@
-package xyz.infodata.interfaces.threads.mil;
+package xyz.infodata.threads;
 /*
  * Autor: Nicolas Ramos
  * Nota : Implementação que visa imitar a implementação do MODULO 14 AULA 03 da Softblue
@@ -11,18 +11,20 @@ package xyz.infodata.interfaces.threads.mil;
  */
 
 
-public class Contador {
+public class MyThread implements Runnable {
 
-	private int valor;
+	private Contador contador;
 	
-	// se retirar o 'synchronized' o valor final sera errado
-	// e ficará mudando
-	public synchronized void incrementar() {
-		valor++;
-	}
-
-	public int getValor() {
-		return valor;
+	public MyThread (Contador c) {
+		contador = c;
 	}
 	
+	@Override
+	public void run() {
+		for(int i = 0; i < 100; i++) {
+			contador.incrementar();
+		}
+		
+	}
+
 }

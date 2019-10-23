@@ -1,8 +1,11 @@
 package xyz.infodata.testesjunit;
-import org.junit.jupiter.api.Test;
-import xyz.infodata.Math;
-import java.util.Arrays;
 import static org.junit.jupiter.api.Assertions.assertEquals;
+
+import java.util.Arrays;
+
+import org.junit.jupiter.api.Test;
+
+import xyz.infodata.Math;
 
 /**
  * Implementação de testes unitários em Math... (jUnit)
