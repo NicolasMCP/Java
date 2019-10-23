@@ -8,4 +8,4 @@ usar herança de outra classe, por esse motivo fiz este código por meio da
 implementação de interface, que tem a mesma funcionalidade dos código na
 aula anteriormente citada.
 
-                                                                     * Nicolas Ramos
+                                                                               Nicolas Ramos
