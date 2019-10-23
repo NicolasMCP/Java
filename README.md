@@ -30,7 +30,7 @@ Usando [Constantes BigDecimal](Elementar/src/xyz/infodata/constantes/bigdecimal)
 
 Exemplo de [Agenda](Elementar/src/xyz/infodata/agenda). Algo um pouco mais real que Classe Cachorro e Classe Gato...
 
-Curso [Softblue-Java12-modulo14](threads/implementando/ImplementandoThreads/UsarThreadViaInterfaces/src/xyz/infodata/interfaces/threads/mil). Mil Threads implementadas com interface.
+Curso [Softblue threads](Elementar/src/xyz/infodata/threads). Mil Threads implementadas com interface.
 
 Curso [Alex-jdev-modulo09](Elementar/src/xyz/infodata/alex_jdev/modulo09). Preenchimento de dados para testes.
 
