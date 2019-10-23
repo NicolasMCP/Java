@@ -1,6 +1,6 @@
 package xyz.infodata.testesjunit;
 import org.junit.jupiter.api.Test;
-import xyz.infodata.elementar.Math;
+import xyz.infodata.Math;
 import java.util.Arrays;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
