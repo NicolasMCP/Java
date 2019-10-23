@@ -1,4 +1,5 @@
 package xyz.infodata.testesjunit;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import java.util.Arrays;
@@ -10,8 +11,11 @@ import xyz.infodata.Math;
 /**
  * Implementação de testes unitários em Math... (jUnit)
  * @author Nicolas Ramos {@link nicolas@infodata.xyz}<br>
- * Java 11 (já testado em Java 8)
+ * 
+ * Testado JDK 8, JDK 11 e JDK 13.
+ * 
  */
+
 class MathTest {
 
     @Test

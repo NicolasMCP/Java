@@ -1,13 +1,19 @@
 package xyz.infodata.testesjunit;
+
+// import static org.junit.jupiter.api.Assertions.*;
+
 import static org.junit.Assert.assertEquals;
 import org.junit.jupiter.api.Test;
-import xyz.infodata.elementar.data.Data;
+import xyz.infodata.data.Data;
 
 /**
  * Testes jUnit da classe Data
  * @author Nicolas Ramos {@link nicolas@infodata.xyz}<br>
- * Java 11 (já testado em Java 8)
+ * 
+ * Testado JDK 8, JDK 11 e JDK 13.
+ * 
  */
+
 class DataTest {
 
     Data data = new Data(15, 1, 2018, 21, 15,3);
