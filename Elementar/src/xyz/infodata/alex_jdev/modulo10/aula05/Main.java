@@ -7,10 +7,11 @@ package xyz.infodata.alex_jdev.modulo10.aula05;
  *        https://cursocompletoemjsfcomprimeface.club.hotmart.com/lesson/r37dvpJd4L/anotacao-atoverride-e-reescrita-de-metodos
  *        
  *        Copiei todos os exemplos de 
- *        https://github.com/NicolasMCP/Java/tree/master/jse/Elementar/src/xyz/infodata/alex_jdev/modulo10/aula03
+ *        https://github.com/NicolasMCP/Java/tree/master/Elementar/src/xyz/infodata/alex_jdev/modulo10/aula03
  *        e, estou aplicando as mudanças dentro deste package.
  *        
- *        Desenvolvido em openjdk 12.0.2 feito para rodar a partir do jdk 8.
+ *        Feito para rodar a partir do jdk 8.
+ *        Testado em JDK 12.0.2 e JDK 13.
  *        
  */
 
@@ -22,7 +23,7 @@ public class Main {
 	public static void main(String[] args) {
 		 
 		/* código em: 
-		 * https://github.com/NicolasMCP/Java/blob/master/jse/Elementar/src/xyz/infodata/alex_jdev/modulo10/aula04/Main.java
+		 * https://github.com/NicolasMCP/Java/tree/master/Elementar/src/xyz/infodata/alex_jdev/modulo10/aula05
 		 */
 		Aluno aluno = new Aluno();
 		aluno.setId(7L);
