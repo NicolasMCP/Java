@@ -16,6 +16,8 @@ package xyz.infodata.alex_jdev.modulo10.aula07;
  *        Nota Importante: O objetivo desta aula é o código da linha 20 de Pessoa.java e os módulos
  *                         na linha 49 de Aluno.java, na linha 62 de Diretor.java e na linha 51 de Secretario.java
  *        
+ *        Obs: Foi usado o método Salario(), e não getSalario(), para ficar igual a aula no vídeo.
+ *        
  */
 
 import java.time.LocalDate;
