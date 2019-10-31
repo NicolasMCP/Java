@@ -30,7 +30,7 @@ public class Main {
 		 */
 		Aluno aluno = new Aluno();
 		aluno.setId(7L);
-		aluno.setNome("Sandra Perez");
+		aluno.setNome("Alejandra");
 		aluno.setDataNascimento(LocalDate.of(2000, 1, 17));
 
 		// inserindo alguma disciplina
@@ -80,76 +80,6 @@ public class Main {
 				System.out.println(s);
 			}
 		};
-	}
-	
-
-	private static void preencheDadosAlunos(List<Aluno> alunos) {
-		
-		Aluno aluno = new Aluno();
-		aluno.setId(1L);
-		aluno.setNome("Macarena");
-		aluno.setDataNascimento(LocalDate.of(1988, 12, 22));
-		aluno.setRg("4.322.332");
-		aluno.setCpf("000.000.000-00");
-		
-		Disciplina disciplina;
-		
-		String[] nome = {"Java","Python", "C#"};
-		Integer[] notas = {78, 98, 88};
-		
-		for(int i = 0; i < nome.length; i++) {
-			disciplina = new Disciplina();
-			disciplina.setNome(nome[i]);
-			disciplina.setNota(notas[i]);
-			
-			// caso na CLASSE aluno use: private List<Disciplina> listaDisciplinas; 
-			
-//			if(aluno.getListaDisciplinas() == null) {
-//				aluno.setListaDisciplinas(new ArrayList<Disciplina>());
-//			}
-			aluno.getListaDisciplinas().add(disciplina);
-		}
-		
-		alunos.add(aluno);
-		
-		aluno = new Aluno();
-		aluno.setId(2L);
-		aluno.setNome("Alejandra");
-		aluno.setDataNascimento(LocalDate.of(1992, 3, 15));
-		aluno.setRg("2.128.256");
-		aluno.setCpf("111.111.111-11");
-		
-		nome = new String[] {"Java","JS", "Vue.js"};
-		notas = new Integer[] {69, 38, 24};
-		
-		for(int i = 0; i < nome.length; i++) {
-			disciplina = new Disciplina();
-			disciplina.setNome(nome[i]);
-			disciplina.setNota(notas[i]);
-			aluno.getListaDisciplinas().add(disciplina);
-		}
-		
-		alunos.add(aluno);
-		
-		aluno = new Aluno();
-		aluno.setId(3L);
-		aluno.setNome("Paola");
-		// comentada a propósito, teste insidência da exceção NullPointerException
-//  		aluno.setDataNascimento(LocalDate.of(2000, 6, 2)); 
-		aluno.setRg("2.481.632");
-		aluno.setCpf("222.222.222-22");
-		
-		nome = new String[] {"Java","SQL", "html5/css/JS"};
-		notas = new Integer[] {84, 66, 70};
-		
-		for(int i = 0; i < nome.length; i++) {
-			disciplina = new Disciplina();
-			disciplina.setNome(nome[i]);
-			disciplina.setNota(notas[i]);
-			aluno.getListaDisciplinas().add(disciplina);
-		}
-		
-		alunos.add(aluno);
 	}
 
 }

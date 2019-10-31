@@ -25,7 +25,7 @@ public class Main {
 		
 		Aluno aluno = new Aluno();
 		aluno.setId(7L);
-		aluno.setNome("Sandra Perez");
+		aluno.setNome("Sandra");
 		
 		System.out.println(aluno);
 		System.out.println();

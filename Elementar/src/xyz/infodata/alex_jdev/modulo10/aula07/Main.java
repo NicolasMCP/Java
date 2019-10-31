@@ -32,7 +32,7 @@ public class Main {
 		 */
 		Aluno aluno = new Aluno();
 		aluno.setId(7L);
-		aluno.setNome("Sandra Perez");
+		aluno.setNome("Alejandra");
 		aluno.setDataNascimento(LocalDate.of(2000, 1, 17));
 
 		// inserindo alguma disciplina
