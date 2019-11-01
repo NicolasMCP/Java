@@ -7,6 +7,6 @@ Uso de Poliformismo com exemplo de código ( + ou - apegado ao código da aula)
 visando ajudar a compreensão da mesma
 
 
-![codigo](poliformismo.png)
+![codigo](poli.png)
 
 
