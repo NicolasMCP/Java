@@ -32,7 +32,7 @@ Exemplo de [Agenda](Elementar/src/xyz/infodata/agenda). Algo um pouco mais real 
 
 Curso [Softblue threads](Elementar/src/xyz/infodata/threads). Mil Threads implementadas com interface.
 
-Curso [Alex-jdev-modulo09](Elementar/src/xyz/infodata/alex_jdev/modulo09). Preenchimento de dados para testes.
+Curso [Alex-jdev-modulo09](Elementar/src/xyz/infodata/alex_jdev/modulo09). Preenchimento básico de dados para testes.
 
 Curso [Alex-jdev-modulo10](Elementar/src/xyz/infodata/alex_jdev/modulo10). Código para ajuda na compreensão do módulo sendo:
                    
