@@ -58,8 +58,8 @@ Curso [Alex-jdev-modulodesconhecido/aulaarray/](Elementar/src/xyz/infodata/alex_
 
 Curso [Alex-jdev-modulo11](Elementar/src/xyz/infodata/alex_jdev/modulo11). Código para ajuda na compreensão do módulo sendo:
 
-                                   Aula 11 Capturando exceção não tratada (por que não salvou o lines.txt)
+                        Aula 11 Capturando exceção não tratada (por que não salvou o lines.txt)
 
-                                   Aula 15 Várias soluções para o NullPointerException Java (pratique)
+                        Aula 15 Várias soluções para o NullPointerException Java (pratique)
 
 
