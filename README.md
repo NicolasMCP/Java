@@ -64,7 +64,7 @@ Curso [Alex-jdev-modulo11](Elementar/src/xyz/infodata/alex_jdev/modulo11). Códi
 
 Curso [Alex-jdev-modulo13](Elementar/src/xyz/infodata/alex_jdev/modulo13). Código para ajuda na compreensão do módulo sendo:
 
-                        Aula 06 e Aula 07 código de exemplo, semelhante ao feito nas aulas, mas reduzido
+                  Aula 06 e Aula 07 código de exemplo, semelhante ao feito nas aulas, mas reduzido
 
                         
 
