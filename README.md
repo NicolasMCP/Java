@@ -36,17 +36,17 @@ Curso [Alex-jdev-modulo09](Elementar/src/xyz/infodata/alex_jdev/modulo09). Preen
 
 Curso [Alex-jdev-modulo10](Elementar/src/xyz/infodata/alex_jdev/modulo10). Código para ajuda na compreensão do módulo sendo:
                    
-				         Aula 3 Herança
+    Aula 3 Herança
 				   
-				         Aula 4 Objetos das SubClasses
+    Aula 4 Objetos das SubClasses
 				   
-				         Aula 5 @Override e reescrita de métodos
+    Aula 5 @Override e reescrita de métodos
 				   
-				         Aula 6 Classes Abstratas
+    Aula 6 Classes Abstratas
 				   
-				         Aula 7 Métodos Abstratos
+    Aula 7 Métodos Abstratos
 				   
-				         Aula 8 Polimorfismo
+    Aula 8 Polimorfismo
 
 Curso [Alex-jdev-modulodesconhecido/aulaarray/](Elementar/src/xyz/infodata/alex_jdev/modulodesconhecido/aulaarray/). Código para ajuda na compreensão do Pedro Henrique.
 
@@ -58,13 +58,13 @@ Curso [Alex-jdev-modulodesconhecido/aulaarray/](Elementar/src/xyz/infodata/alex_
 
 Curso [Alex-jdev-modulo11](Elementar/src/xyz/infodata/alex_jdev/modulo11). Código para ajuda na compreensão do módulo sendo:
 
-                      Aula 11 Capturando exceção não tratada (por que não salvou o lines.txt)
+    Aula 11 Capturando exceção não tratada (por que não salvou o lines.txt)
 
-                      Aula 15 Várias soluções para o NullPointerException Java (pratique)
+    Aula 15 Várias soluções para o NullPointerException Java (pratique)
 
 Curso [Alex-jdev-modulo13](Elementar/src/xyz/infodata/alex_jdev/modulo13). Código para ajuda na compreensão do módulo sendo:
 
-                Aula 06 e Aula 07 código de exemplo, semelhante ao feito nas aulas, mas reduzido
+    Aula 06 e Aula 07 código de exemplo, semelhante ao feito nas aulas, mas reduzido
 
                         
 
