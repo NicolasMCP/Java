@@ -9,7 +9,7 @@ Projetos em Java 8 ou superior - Software Livre.
 
 Atualmente estou usando os jdks
 
-<a href="https://github.com/corretto/corretto-11/releases" target="_blank">jdk 11.0.8 LINK</a>
+<a href="https://github.com/corretto/corretto-11/releases" target="_blank" rel="noopener">jdk 11.0.8 LINK</a>
 
 [jdk 11.0.8](https://github.com/corretto/corretto-11/releases)
 
