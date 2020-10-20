@@ -9,11 +9,13 @@ Projetos em Java 8 ou superior - Software Livre.
 
 Atualmente estou usando os jdks
 
-[jdk 11.0.8](https://github.com/corretto/corretto-11/releases){:target="_blank"} 
+<a href="https://github.com/corretto/corretto-11/releases" target="_blank">jdk 11.0.8 LINK</a>
+
+[jdk 11.0.8](https://github.com/corretto/corretto-11/releases)
 
 para rodar o IntelliJ IDEA e o Eclipse, e para os progetos em geral
 
-[jdk 8 u256.01.1](https://github.com/corretto/corretto-8/releases){:target="_blank"}
+[jdk 8 u256.01.1](https://github.com/corretto/corretto-8/releases)
 
 
 ### Curiosidades
