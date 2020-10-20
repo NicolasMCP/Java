@@ -6,6 +6,16 @@
 
 Projetos em Java 8 ou superior - Software Livre.
 
+
+Atualmente estou usando os jdks
+
+[jdk 11.0.8] (https://github.com/corretto/corretto-11/releases) 
+
+para rodar o IntelliJ IDEA e o Eclipse, e para os progetos em geral
+
+[jdk 8 u256.01.1] (https://github.com/corretto/corretto-8/releases)
+
+
 ### Curiosidades
 
 Exemplos simples do [for](Elementar/src/xyz/infodata/LoopFor.java)
