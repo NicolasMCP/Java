@@ -1,5 +1,13 @@
 package xyz.infodata.alex_jdev.modulo13.aula13;
 
+/**
+ * @author Nicolas Ramos, nicolas@infodata.xyz
+ * @version 0.1.0
+ * @created 02/11/2020 
+ * @apiNote https://cursocompletoemjsfcomprimeface.club.hotmart.com/lesson/B146kGoyed/lendo-uma-matriz-multidimensional
+ *          os códigos não são iguais aos nas aulas, senão não teria graça postar... ;)
+ **/
+
 public class Matriz {
 
 	public static void main(String[] args) {
