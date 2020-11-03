@@ -78,6 +78,8 @@ Curso [Alex-jdev-modulo13](Elementar/src/xyz/infodata/alex_jdev/modulo13). Códi
 
     Aula 06 e Aula 07 código de exemplo, semelhante ao feito nas aulas, mas reduzido
 
+    Aula 13 Lendo Matriz código reduzido
+
                         
 
 
