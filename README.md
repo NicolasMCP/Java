@@ -80,6 +80,8 @@ Curso [Alex-jdev-modulo13](Elementar/src/xyz/infodata/alex_jdev/modulo13). Códi
 
     Aula 13 Lendo Matriz código reduzido
 
+Curso [Alex-jdev-modulo15](Elementar/src/xyz/infodata/alex_jdev/modulo15). Código para ajuda na compreensão do módulo sendo:
+
     Aula 14 Split para Array
 
 
