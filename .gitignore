@@ -1,4 +1,6 @@
 .gitignore
+/DEBUG.png
+/Elementar/src/oracle/
 /Elementar/.classpath
 /Elementar/.project
 /Elementar/.settings/
@@ -7,7 +9,6 @@
 /NetBeansProjects/
 /OperadoresLogicosJAVA.png
 /OperadoresPrioridade.png
-/Elementar/src/oracle/
 /cursojava/
 /eclipse/
 /ed/
