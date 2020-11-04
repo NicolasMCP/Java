@@ -95,7 +95,8 @@ Curso [Alex-jdev-modulo15](Elementar/src/xyz/infodata/alex_jdev/modulo15). Códi
 <br/>
 
 **Projeto de Nícolas Ramos**
-```diff
-+     nicolas@infodata.xyz
-+     nicolas.mcp@gmail.com
-```
+<br/>
+	[nicolas@infodata.xyz](mailto:nicolas@infodata.xyz)
+<br/>
+	[nicolas.mcp@gmail.com](mailto:nicolas.mcp@gmail.com)
+
