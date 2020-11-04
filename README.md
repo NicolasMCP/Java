@@ -1,10 +1,14 @@
 # Java
 
 
-![PyPI - License](https://img.shields.io/pypi/l/Django.svg?style=for-the-badge)
+![CRAN](https://img.shields.io/badge/%20LICENSE%20-GPL%203-blue.svg?style=for-the-badge)
 
 
-Projetos em Java 8 ou superior - Software Livre.
+> Licença: GNU GPL 3 Software Livre.
+
+Estes repositórios fazem parte do Site infodata.xyz
+
+Projetos em Java 8 ou superior.
 
 
 Atualmente estou usando os jdks
@@ -86,4 +90,16 @@ Curso [Alex-jdev-modulo15](Elementar/src/xyz/infodata/alex_jdev/modulo15). Códi
 
 
 
+<br/>
+<br/>
 
+#### [código infodata.xyz](https://github.com/NicolasMCP/infodata.xyz/)
+
+<br/>
+<br/>
+
+**Projeto de Nícolas Ramos**
+```diff
++     nicolas@infodata.xyz
++     nicolas.mcp@gmail.com
+```
