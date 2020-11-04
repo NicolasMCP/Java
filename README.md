@@ -11,7 +11,7 @@ Atualmente estou usando os jdks
 
 [jdk 11.0.8 LTS](https://github.com/corretto/corretto-11/releases)
 
-para rodar o IntelliJ IDEA e o Eclipse, e para os progetos em geral
+e
 
 [jdk 8 u256.01.1 LTS](https://github.com/corretto/corretto-8/releases)
 
