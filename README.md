@@ -88,14 +88,10 @@ Curso [Alex-jdev-modulo15](Elementar/src/xyz/infodata/alex_jdev/modulo15). Códi
 
     Aula 14 Split para Array
 
-
-
-<br/>
 <br/>
 
 #### [código infodata.xyz](https://github.com/NicolasMCP/infodata.xyz/)
 
-<br/>
 <br/>
 
 **Projeto de Nícolas Ramos**
