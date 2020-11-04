@@ -90,7 +90,7 @@ Curso [Alex-jdev-modulo15](Elementar/src/xyz/infodata/alex_jdev/modulo15). Códi
 
 <br/>
 
-#### [código infodata.xyz](https://github.com/NicolasMCP/infodata.xyz/)
+#### [infodata.xyz](https://github.com/NicolasMCP/infodata.xyz/blob/master/README.md)
 
 <br/>
 
