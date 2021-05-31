@@ -112,7 +112,6 @@ Curso [Alex-jdev-modulo15](Elementar/src/xyz/infodata/alex_jdev/modulo15/aula14/
 <br/>
 
 **Projeto de Nícolas Ramos**
-
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[nicolas.mcp@gmail.com](mailto:nicolas.mcp@gmail.com)
 
