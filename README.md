@@ -93,23 +93,18 @@ Curso [Alex-jdev-modulo15](Elementar/src/xyz/infodata/alex_jdev/modulo15/aula14/
 
 #### [infodata](https://nicolasmcp.github.io/infodata/)
 
-<br/>
 
 #### [código infodata atualizando](https://github.com/NicolasMCP/infodata/blob/main/README.md)
 
-<br/>
 
 #### [google drive](https://drive.google.com/drive/folders/0B8C7-DYa7vcUUVRzanFhZENMTFU)
 
-<br/>
 
 #### [youtube](https://www.youtube.com/channel/UCYI7lWiyTmdY8vU6Ub1LZAw)
 
-<br/>
 
 #### [anteriormente infodata.xyz](https://github.com/NicolasMCP/infodata.xyz/blob/master/README.md)
 
-<br/>
 
 **Projeto de Nícolas Ramos**
 <br/>
