@@ -61,7 +61,7 @@ local.properties
 /cursojava/
 /eclipse/
 /ed/
-/idea/
+#/idea/
 /java/
 /javac/
 /jee/
