@@ -11,22 +11,20 @@ Estes repositórios fazem parte do Site infodata.xyz
 Projetos em Java 8 ou superior.
 
 
-Atualmente estou usando os jdks
-
-[jdk 11.0.8 LTS](https://github.com/corretto/corretto-11/releases)
-
-e
-
-[jdk 8 u256.01.1 LTS](https://github.com/corretto/corretto-8/releases)
+Atualmente estou usando o JDK 11
 
 
 ### Curiosidades
 
-Exemplos simples do [for](Elementar/src/xyz/infodata/LoopFor.java)
+Exemplos simples do [for](https://github1s.com/NicolasMCP/Java/blob/master/Elementar/src/xyz/infodata/LoopFor.java) (interface vcode)
 
-Exemplo super simples do [while, do while](Elementar/src/xyz/infodata/Loops.java)
+Exemplo super simples do [while, do while](https://github1s.com/NicolasMCP/Java/blob/master/Elementar/src/xyz/infodata/Loops.java) (interface vcode)
 
-[double e BigDecimal, Operador Ternario, detalhes variaveis](Elementar/src/xyz/infodata) 
+[double e BigDecimal](https://github1s.com/NicolasMCP/Java/blob/master/Elementar/src/xyz/infodata/Main_Math.java) (interface vcode)
+
+[Operador Ternario](https://github1s.com/NicolasMCP/Java/blob/master/Elementar/src/xyz/infodata/OperadorTernario.java) (interface vcode)
+
+[detalhes variaveis](https://github1s.com/NicolasMCP/Java/blob/master/Elementar/src/xyz/infodata/Variaveis.java) (interface vcode)
 
 Chamando um [Construtor](Elementar/src/xyz/infodata/construtor) desde outro.
 
