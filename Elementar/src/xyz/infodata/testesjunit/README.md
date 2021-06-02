@@ -1,3 +1,9 @@
+#### [DataTest](https://github1s.com/NicolasMCP/Java/blob/master/Elementar/src/xyz/infodata/testesjunit/DataTest.java) (interface vcode)
+
+
+#### [MathTest](https://github1s.com/NicolasMCP/Java/blob/master/Elementar/src/xyz/infodata/testesjunit/MathTest.java) (interface vcode)
+
+
 # Configurando JUnit Jupiter
 
 * ***```Criando a Classe de teste```*** 
