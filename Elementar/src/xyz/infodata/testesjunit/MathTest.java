@@ -10,7 +10,9 @@ import xyz.infodata.Math;
 
 /**
  * Implementação de testes unitários em Math... (jUnit)
- * @author Nicolas Ramos {@link nicolas@infodata.xyz}<br>
+ * 
+ * @author Nicolas Ramos
+ * email: nicolas.mcp@gmail.com
  * 
  * Testado JDK 8, JDK 11 e JDK 13.
  * 

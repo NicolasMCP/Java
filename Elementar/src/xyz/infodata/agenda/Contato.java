@@ -3,7 +3,10 @@ import java.util.List;
 
 /**
  * Classe Contato, para uso na Agenda, registra os dados do contato e uma lista de telefones.
- * @author Nicolas Ramos {@link nicolas@infodata.xyz}<br>
+ * 
+ * @author Nicolas Ramos
+ * email: nicolas.mcp@gmail.com
+ *
  * Java 11 (testado em Java 8)
  */
 public class Contato {

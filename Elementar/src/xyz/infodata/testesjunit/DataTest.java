@@ -8,7 +8,9 @@ import xyz.infodata.data.Data;
 
 /**
  * Testes jUnit da classe Data
- * @author Nicolas Ramos {@link nicolas@infodata.xyz}<br>
+ * 
+ * @author Nicolas Ramos
+ * email: nicolas.mcp@gmail.com
  * 
  * Testado JDK 8, JDK 11 e JDK 13.
  * 

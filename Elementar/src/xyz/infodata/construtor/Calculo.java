@@ -2,7 +2,10 @@ package xyz.infodata.construtor;
 
 /**
  * Exemplificando o uso dos Construtores.
- * @author Nicolas Ramos {@link nicolas@infodata.xyz}<br>
+ * 
+ * @author Nicolas Ramos
+ * email: nicolas.mcp@gmail.com
+ *
  * Java 11 (já testado em Java 8)
  */
 public class Calculo {

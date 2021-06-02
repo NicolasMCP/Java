@@ -4,7 +4,10 @@ import java.util.ArrayList;
 
 /**
  * Visualizando como a Agenda se comporta com dados reais.
- * @author Nicolas Ramos {@link nicolas@infodata.xyz}<br>
+ * 
+ * @author Nicolas Ramos
+ * email: nicolas.mcp@gmail.com
+ *
  * Java 11 (testado com Java 8)
  */
 public class Aplicacao {

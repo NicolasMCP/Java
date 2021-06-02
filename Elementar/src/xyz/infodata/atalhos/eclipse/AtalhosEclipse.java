@@ -1,5 +1,13 @@
 package xyz.infodata.atalhos.eclipse;
 
+/**
+ * 
+ * @author Nicolas Ramos
+ * email: nicolas.mcp@gmail.com
+ *
+ *
+ */
+
 public class AtalhosEclipse {
 
 	public void mostrarAtalhos() {

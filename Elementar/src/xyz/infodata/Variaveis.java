@@ -2,8 +2,9 @@ package xyz.infodata;
 
 /**
  * Alguns detalhes sobre variáveis.
+ * 
  * @author Nicolas Ramos
- * email: nicolas.mcp@gmail.com<br>
+ * email: nicolas.mcp@gmail.com
  * 
  * Testado em JDK 11 e JDK 13
  * 

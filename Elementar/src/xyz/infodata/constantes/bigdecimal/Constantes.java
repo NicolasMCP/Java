@@ -4,7 +4,10 @@ import java.math.BigDecimal;
 
 /**
  * Declara constantes PI, PY, STR_PI, VALOR
- * @author Nicolas Ramos {@link nicolas@infodata.xyz}<br>
+ * 
+ * @author Nicolas Ramos
+ * email: nicolas.mcp@gmail.com
+ *
  * <b>VALOR</b> é declarada sem nenhum conteúdo, mas o seu conteúdo é fornecido no bloco 'static{}' <br>
  * Java 11 (já testado em Java 8)
  */

@@ -1,10 +1,12 @@
 package xyz.infodata.atributosxvar;
-/*
- * Autor: Nicolas Ramos
- * Nota : Mostrar como as variaveis NÃO são inicializadas e 
- *        os atributos SIM. (e de que forma)
+/**
+ * Nota : Mostrar como as variaveis NÃO são inicializadas e os atributos SIM. (e de que forma)
+ * 
+ * @author Nicolas Ramos
+ * email: nicolas.mcp@gmail.com
+ *
  *        
- *        Desenvolvido em openjdk 12.0.2 feito para rodar em openjdk 8.
+ * Desenvolvido em openjdk 12.0.2 feito para rodar em openjdk 8.
  *        
  */
 
