@@ -32,9 +32,9 @@ Brincando com [Objetos](https://github1s.com/NicolasMCP/Java/blob/master/Element
 
 [Datas](https://github1s.com/NicolasMCP/Java/blob/master/Elementar/src/xyz/infodata/data/Aplicacao.java) e formatos (Legado). (interface vcode)
 
-[Datas](Elementar/src/xyz/infodata/data/thread/safe/App.java) e formatos LocalDate, LocalTime, Period e Duration (Incluidos no Java desde a versão 8).
+[Datas](https://github1s.com/NicolasMCP/Java/blob/master/Elementar/src/xyz/infodata/data/thread/safe/App.java) e formatos LocalDate, LocalTime, Period e Duration (Incluidos no Java desde a versão 8). (interface vcode)
 
-[Testes](Elementar/src/xyz/infodata/testesjunit) com jUnit5.
+[Testes](https://github.com/NicolasMCP/Java/blob/master/Elementar/src/xyz/infodata/testesjunit/README.md) com jUnit5. (README.md normal e dentro, interface vcode)
 
 [Separadores](Elementar/src/xyz/infodata/teste/codigo/Separadores.java) independentes do SO.
 
