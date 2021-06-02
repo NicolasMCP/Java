@@ -26,11 +26,11 @@ Exemplo super simples do [while, do while](https://github1s.com/NicolasMCP/Java/
 
 [detalhes variaveis](https://github1s.com/NicolasMCP/Java/blob/master/Elementar/src/xyz/infodata/Variaveis.java) (interface vcode)
 
-Chamando um [Construtor](Elementar/src/xyz/infodata/construtor) desde outro.
+Chamando um [Construtor](https://github1s.com/NicolasMCP/Java/blob/master/Elementar/src/xyz/infodata/construtor/Aplicacao.java) desde outro. (interface vcode)
 
-Brincando com [Objetos](Elementar/src/xyz/infodata/objetos). 
+Brincando com [Objetos](https://github1s.com/NicolasMCP/Java/blob/master/Elementar/src/xyz/infodata/objetos/Aplicacao.java) (interface vcode) 
 
-[Datas](Elementar/src/xyz/infodata/data) e formatos (Legado).
+[Datas](https://github1s.com/NicolasMCP/Java/blob/master/Elementar/src/xyz/infodata/data/Aplicacao.java) e formatos (Legado). (interface vcode)
 
 [Datas](Elementar/src/xyz/infodata/data/thread/safe/App.java) e formatos LocalDate, LocalTime, Period e Duration (Incluidos no Java desde a versão 8).
 

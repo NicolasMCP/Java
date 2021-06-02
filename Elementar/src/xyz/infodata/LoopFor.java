@@ -1,7 +1,8 @@
 package xyz.infodata;
 
 /**
- * @author Nicolas Ramos {@link www.infodata.xyz}
+ * @author Nicolas Ramos 
+ * email: nicolas.mcp@gmail.com
  * 
  * Java 5 a 13
  * Testado em JDK 13

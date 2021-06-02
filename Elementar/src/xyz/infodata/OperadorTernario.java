@@ -2,8 +2,11 @@ package xyz.infodata;
 
 /**
  * Um exemplo simples para lembrar o uso do operador ternario.
- * @author Nicolas Ramos {@link nicolas@infodata.xyz}<br>
- * Resultado impresso no Console.<br>
+ *
+ * @author Nicolas Ramos 
+ * email: nicolas.mcp@gmail.com
+ *
+ * Resultado impresso no Console.
  * 
  * Testado em JDK 8, JDK 11, JDK 13.
  * 

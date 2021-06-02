@@ -5,7 +5,9 @@ import java.util.ArrayList;
 
 /**
  * A Classe Math tem por objetivo incluir vários métodos de calculo de itens matematicos.
- * @author Nicolas Ramos {@link nicolas@infodata.xyz}<br>
+ * 
+ * @author Nicolas Ramos 
+ * email: nicolas.mcp@gmail.com
  * 
  * Testado em JDK 8, JDK 11, JDK 13.
  * 
