@@ -2,7 +2,10 @@ package xyz.infodata.data;
 
 /**
  * Demostração simples da classe Data.
- * @author Nicolas Ramos {@link nicolas@infodata.xyz}<br>
+ * 
+ * @author Nicolas Ramos
+ * email: nicolas.mcp@gmail.com
+ *
  * Java 11 (já testado em Java 8)
  */
 public class Aplicacao {

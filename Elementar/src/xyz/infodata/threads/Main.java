@@ -1,6 +1,9 @@
 package xyz.infodata.threads;
-/*
- * Autor: Nicolas Ramos
+/**
+ * 
+ * @author Nicolas Ramos
+ * email: nicolas.mcp@gmail.com
+ *
  * Nota : Implementação que visa imitar a implementação do MODULO 14 AULA 03 da Softblue
  *        Curso Fundamentos de Java 15, mas em vez de fazer a implementação extendendo
  *        a Threads e visto que o Java não permite herança múltipla, caso fosse necessário

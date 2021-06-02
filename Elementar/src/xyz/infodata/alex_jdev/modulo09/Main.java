@@ -1,6 +1,9 @@
 package xyz.infodata.alex_jdev.modulo09;
-/*
- * Autor: Nicolas Ramos 
+/**
+ * 
+ * @author Nicolas Ramos
+ * email: nicolas.mcp@gmail.com
+ *
  * Nota : Classe Principal, automatizada a entrada de dados para proseguir
  *        com outros testes sem ter que digita-los manualmente cada vez...
  *        Esta clases e códigos não são iguais nem tem a mesma quantia de 

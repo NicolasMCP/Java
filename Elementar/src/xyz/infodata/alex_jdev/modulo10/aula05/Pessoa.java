@@ -1,7 +1,10 @@
 package xyz.infodata.alex_jdev.modulo10.aula05;
 
-/*
- * Autor: Nicolas Ramos
+/**
+ * 
+ * @author Nicolas Ramos
+ * email: nicolas.mcp@gmail.com
+ *
  * Nota : veja as notas no comentário do Main.java
  * 
  */

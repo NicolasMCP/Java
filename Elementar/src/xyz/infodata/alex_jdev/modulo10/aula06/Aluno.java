@@ -1,6 +1,9 @@
 package xyz.infodata.alex_jdev.modulo10.aula06;
-/*
- * Autor: Nicolas Ramos 
+/**
+ * 
+ * @author Nicolas Ramos
+ * email: nicolas.mcp@gmail.com
+ *
  * Nota : Classe Cliente, para testes
  */
 

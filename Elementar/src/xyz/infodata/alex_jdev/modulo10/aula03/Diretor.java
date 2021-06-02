@@ -4,6 +4,13 @@ import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.time.temporal.ChronoUnit;
 
+/**
+ * 
+ * @author Nicolas Ramos
+ * email: nicolas.mcp@gmail.com
+ *
+ */
+
 public class Diretor extends Pessoa {
 
 	private String registro;

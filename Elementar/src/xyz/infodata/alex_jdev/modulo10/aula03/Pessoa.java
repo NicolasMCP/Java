@@ -1,7 +1,10 @@
 package xyz.infodata.alex_jdev.modulo10.aula03;
 
-/*
- * Autor: Nicolas Ramos
+/**
+ * 
+ * @author Nicolas Ramos
+ * email: nicolas.mcp@gmail.com
+ *
  * Nota : Objetivo e produzir exemplos para melhor compreensão do módulo 10 do 
  *        curso do Alex, a partir da aula 3.
  *        https://cursocompletoemjsfcomprimeface.club.hotmart.com/lesson/RMe1ra5N7Y/sintaxe-correta-da-heranca

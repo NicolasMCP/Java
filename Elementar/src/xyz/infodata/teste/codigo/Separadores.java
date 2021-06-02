@@ -3,7 +3,10 @@ import java.io.File;
 
 /**
  * Apenas ums testes de comandos java.
- * @author Nicolas Ramos {@link nicolas@infodata.xyz}<br>
+ * 
+ * @author Nicolas Ramos
+ * email: nicolas.mcp@gmail.com
+ *
  * Java 11 (já testado em Java 8)
  */
 public class Separadores {

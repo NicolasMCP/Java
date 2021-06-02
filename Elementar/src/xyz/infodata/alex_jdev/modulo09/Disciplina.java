@@ -1,6 +1,9 @@
 package xyz.infodata.alex_jdev.modulo09;
-/*
- * Autor: Nicolas Ramos 
+/**
+ * 
+ * @author Nicolas Ramos
+ * email: nicolas.mcp@gmail.com
+ *
  * Nota : Classe Disciplina, para testes
  */
 

@@ -1,9 +1,12 @@
 package xyz.infodata.objetos;
 
 /**
- * A Classe Main Demostra o isolamento dos objetos...<br>
+ * A Classe Main Demostra o isolamento dos objetos...
  * USE DEBUG (com Step Into) para acompanhar o desenrolar da execução passo a passo.
- * @author Nicolas Ramos {@link nicolas@infodata.xyz}<br>
+ * 
+ * @author Nicolas Ramos
+ * email: nicolas.mcp@gmail.com
+ *
  * Java 11 (já testado em Java 8)
  */
 public class Aplicacao {

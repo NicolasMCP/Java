@@ -1,7 +1,10 @@
 package xyz.infodata.alex_jdev.modulo10.aula04;
 
-/*
- * Autor: Nicolas Ramos
+/**
+ * 
+ * @author Nicolas Ramos
+ * email: nicolas.mcp@gmail.com
+ *
  * Nota : Objetivo e produzir exemplos para melhor compreensão do MÓDULO 10 do 
  *        curso do Alex, da aula 4.
  *        

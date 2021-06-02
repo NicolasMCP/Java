@@ -2,6 +2,16 @@ package xyz.infodata.alex_jdev.modulo10.aula05;
 
 import java.time.format.DateTimeFormatter;
 
+
+/**
+ * 
+ * @author Nicolas Ramos
+ * email: nicolas.mcp@gmail.com
+ *
+ *
+ */
+
+
 public class Secretario extends Pessoa {
 
 	private String registro;
